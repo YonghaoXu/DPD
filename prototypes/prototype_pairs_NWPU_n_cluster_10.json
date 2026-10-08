@@ -1,0 +1,4592 @@
+{
+  "airplane": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_034.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "airplane_034.jpg",
+      "margin": 0.207345,
+      "d_intra": 0.806448,
+      "d_inter_min": 1.013792,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_532.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "airplane_532.jpg",
+      "margin": 0.339663,
+      "d_intra": 0.485828,
+      "d_inter_min": 0.825491,
+      "cluster_size": 66
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_549.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "airplane_549.jpg",
+      "margin": 0.199946,
+      "d_intra": 0.54681,
+      "d_inter_min": 0.746756,
+      "cluster_size": 82
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_202.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "airplane_202.jpg",
+      "margin": 0.250863,
+      "d_intra": 0.645025,
+      "d_inter_min": 0.895889,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_517.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "airplane_517.jpg",
+      "margin": 0.194081,
+      "d_intra": 0.7761,
+      "d_inter_min": 0.970181,
+      "cluster_size": 30
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_267.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "airplane_267.jpg",
+      "margin": 0.170226,
+      "d_intra": 0.785953,
+      "d_inter_min": 0.956179,
+      "cluster_size": 49
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_365.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "airplane_365.jpg",
+      "margin": 0.172829,
+      "d_intra": 0.80343,
+      "d_inter_min": 0.976259,
+      "cluster_size": 25
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_156.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "airplane_156.jpg",
+      "margin": 0.347274,
+      "d_intra": 0.332901,
+      "d_inter_min": 0.680175,
+      "cluster_size": 143
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_032.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "airplane_032.jpg",
+      "margin": 0.159965,
+      "d_intra": 0.711691,
+      "d_inter_min": 0.871655,
+      "cluster_size": 65
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airplane/airplane_337.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "airplane_337.jpg",
+      "margin": 0.196837,
+      "d_intra": 0.745761,
+      "d_inter_min": 0.942598,
+      "cluster_size": 51
+    }
+  ],
+  "airport": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_249.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "airport_249.jpg",
+      "margin": 0.193295,
+      "d_intra": 0.647115,
+      "d_inter_min": 0.84041,
+      "cluster_size": 74
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_236.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "airport_236.jpg",
+      "margin": 0.215783,
+      "d_intra": 0.808729,
+      "d_inter_min": 1.024512,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_110.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "airport_110.jpg",
+      "margin": 0.151066,
+      "d_intra": 0.445767,
+      "d_inter_min": 0.596834,
+      "cluster_size": 92
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_582.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "airport_582.jpg",
+      "margin": 0.160369,
+      "d_intra": 0.865308,
+      "d_inter_min": 1.025677,
+      "cluster_size": 53
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_416.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "airport_416.jpg",
+      "margin": 0.377456,
+      "d_intra": 0.423643,
+      "d_inter_min": 0.801099,
+      "cluster_size": 85
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_231.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "airport_231.jpg",
+      "margin": 0.184763,
+      "d_intra": 0.745903,
+      "d_inter_min": 0.930666,
+      "cluster_size": 48
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_433.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "airport_433.jpg",
+      "margin": 0.191551,
+      "d_intra": 0.548364,
+      "d_inter_min": 0.739914,
+      "cluster_size": 54
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_031.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "airport_031.jpg",
+      "margin": 0.174565,
+      "d_intra": 0.659339,
+      "d_inter_min": 0.833904,
+      "cluster_size": 60
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_488.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "airport_488.jpg",
+      "margin": 0.311571,
+      "d_intra": 0.896882,
+      "d_inter_min": 1.208452,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/airport/airport_201.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "airport_201.jpg",
+      "margin": 0.292537,
+      "d_intra": 0.533725,
+      "d_inter_min": 0.826262,
+      "cluster_size": 57
+    }
+  ],
+  "baseball_diamond": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_115.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "baseball_diamond_115.jpg",
+      "margin": 0.20412,
+      "d_intra": 0.831128,
+      "d_inter_min": 1.035248,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_539.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "baseball_diamond_539.jpg",
+      "margin": 0.189442,
+      "d_intra": 0.78106,
+      "d_inter_min": 0.970501,
+      "cluster_size": 38
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_201.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "baseball_diamond_201.jpg",
+      "margin": 0.199514,
+      "d_intra": 0.682617,
+      "d_inter_min": 0.88213,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_442.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "baseball_diamond_442.jpg",
+      "margin": 0.162063,
+      "d_intra": 0.417277,
+      "d_inter_min": 0.57934,
+      "cluster_size": 83
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_285.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "baseball_diamond_285.jpg",
+      "margin": 0.101466,
+      "d_intra": 0.430552,
+      "d_inter_min": 0.532018,
+      "cluster_size": 118
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_323.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "baseball_diamond_323.jpg",
+      "margin": 0.163943,
+      "d_intra": 0.880472,
+      "d_inter_min": 1.044415,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_108.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "baseball_diamond_108.jpg",
+      "margin": 0.118646,
+      "d_intra": 0.531602,
+      "d_inter_min": 0.650249,
+      "cluster_size": 105
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_310.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "baseball_diamond_310.jpg",
+      "margin": 0.162269,
+      "d_intra": 0.494255,
+      "d_inter_min": 0.656525,
+      "cluster_size": 92
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_446.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "baseball_diamond_446.jpg",
+      "margin": 0.293315,
+      "d_intra": 0.863766,
+      "d_inter_min": 1.15708,
+      "cluster_size": 10
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/baseball_diamond/baseball_diamond_057.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "baseball_diamond_057.jpg",
+      "margin": 0.158946,
+      "d_intra": 0.4837,
+      "d_inter_min": 0.642646,
+      "cluster_size": 50
+    }
+  ],
+  "basketball_court": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_018.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "basketball_court_018.jpg",
+      "margin": 0.251178,
+      "d_intra": 0.769102,
+      "d_inter_min": 1.02028,
+      "cluster_size": 27
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_302.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "basketball_court_302.jpg",
+      "margin": 0.132325,
+      "d_intra": 0.847413,
+      "d_inter_min": 0.979738,
+      "cluster_size": 34
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_102.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "basketball_court_102.jpg",
+      "margin": 0.131816,
+      "d_intra": 0.891657,
+      "d_inter_min": 1.023472,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_424.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "basketball_court_424.jpg",
+      "margin": 0.12589,
+      "d_intra": 0.480265,
+      "d_inter_min": 0.606155,
+      "cluster_size": 96
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_123.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "basketball_court_123.jpg",
+      "margin": 0.176032,
+      "d_intra": 0.799681,
+      "d_inter_min": 0.975713,
+      "cluster_size": 35
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_413.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "basketball_court_413.jpg",
+      "margin": 0.276521,
+      "d_intra": 0.825744,
+      "d_inter_min": 1.102265,
+      "cluster_size": 29
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_344.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "basketball_court_344.jpg",
+      "margin": 0.109189,
+      "d_intra": 0.673232,
+      "d_inter_min": 0.782421,
+      "cluster_size": 68
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_321.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "basketball_court_321.jpg",
+      "margin": 0.136874,
+      "d_intra": 0.443415,
+      "d_inter_min": 0.580289,
+      "cluster_size": 119
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_330.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "basketball_court_330.jpg",
+      "margin": 0.099112,
+      "d_intra": 0.877041,
+      "d_inter_min": 0.976154,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/basketball_court/basketball_court_229.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "basketball_court_229.jpg",
+      "margin": 0.133359,
+      "d_intra": 0.688326,
+      "d_inter_min": 0.821684,
+      "cluster_size": 89
+    }
+  ],
+  "beach": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_590.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "beach_590.jpg",
+      "margin": 0.354256,
+      "d_intra": 0.488083,
+      "d_inter_min": 0.842339,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_322.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "beach_322.jpg",
+      "margin": 0.385105,
+      "d_intra": 0.66304,
+      "d_inter_min": 1.048144,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_056.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "beach_056.jpg",
+      "margin": 0.304558,
+      "d_intra": 0.576534,
+      "d_inter_min": 0.881092,
+      "cluster_size": 70
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_365.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "beach_365.jpg",
+      "margin": 0.27606,
+      "d_intra": 0.772644,
+      "d_inter_min": 1.048704,
+      "cluster_size": 68
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_543.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "beach_543.jpg",
+      "margin": 0.404742,
+      "d_intra": 0.563954,
+      "d_inter_min": 0.968695,
+      "cluster_size": 64
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_475.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "beach_475.jpg",
+      "margin": 0.322656,
+      "d_intra": 0.388719,
+      "d_inter_min": 0.711375,
+      "cluster_size": 112
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_531.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "beach_531.jpg",
+      "margin": 0.308554,
+      "d_intra": 0.684593,
+      "d_inter_min": 0.993147,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_260.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "beach_260.jpg",
+      "margin": 0.436054,
+      "d_intra": 0.625563,
+      "d_inter_min": 1.061617,
+      "cluster_size": 53
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_387.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "beach_387.jpg",
+      "margin": 0.476711,
+      "d_intra": 0.582334,
+      "d_inter_min": 1.059045,
+      "cluster_size": 48
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/beach/beach_392.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "beach_392.jpg",
+      "margin": 0.337619,
+      "d_intra": 0.573376,
+      "d_inter_min": 0.910995,
+      "cluster_size": 45
+    }
+  ],
+  "bridge": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_429.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "bridge_429.jpg",
+      "margin": 0.179827,
+      "d_intra": 0.53622,
+      "d_inter_min": 0.716047,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_558.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "bridge_558.jpg",
+      "margin": 0.159808,
+      "d_intra": 0.466056,
+      "d_inter_min": 0.625864,
+      "cluster_size": 74
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_356.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "bridge_356.jpg",
+      "margin": 0.190543,
+      "d_intra": 0.517187,
+      "d_inter_min": 0.70773,
+      "cluster_size": 33
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_022.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "bridge_022.jpg",
+      "margin": 0.112794,
+      "d_intra": 0.425036,
+      "d_inter_min": 0.53783,
+      "cluster_size": 100
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_407.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "bridge_407.jpg",
+      "margin": 0.390263,
+      "d_intra": 0.676697,
+      "d_inter_min": 1.06696,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_447.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "bridge_447.jpg",
+      "margin": 0.116528,
+      "d_intra": 0.33339,
+      "d_inter_min": 0.449918,
+      "cluster_size": 74
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_120.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "bridge_120.jpg",
+      "margin": 0.188556,
+      "d_intra": 0.445377,
+      "d_inter_min": 0.633933,
+      "cluster_size": 55
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_258.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "bridge_258.jpg",
+      "margin": 0.157878,
+      "d_intra": 0.36741,
+      "d_inter_min": 0.525288,
+      "cluster_size": 78
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_332.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "bridge_332.jpg",
+      "margin": 0.250971,
+      "d_intra": 0.366263,
+      "d_inter_min": 0.617234,
+      "cluster_size": 41
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/bridge/bridge_084.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "bridge_084.jpg",
+      "margin": 0.195239,
+      "d_intra": 0.328167,
+      "d_inter_min": 0.523406,
+      "cluster_size": 83
+    }
+  ],
+  "chaparral": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_019.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "chaparral_019.jpg",
+      "margin": 0.454383,
+      "d_intra": 0.590177,
+      "d_inter_min": 1.044559,
+      "cluster_size": 14
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_538.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "chaparral_538.jpg",
+      "margin": 0.151595,
+      "d_intra": 0.467185,
+      "d_inter_min": 0.618779,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_153.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "chaparral_153.jpg",
+      "margin": 0.10056,
+      "d_intra": 0.857133,
+      "d_inter_min": 0.957693,
+      "cluster_size": 43
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_539.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "chaparral_539.jpg",
+      "margin": 0.145271,
+      "d_intra": 0.923367,
+      "d_inter_min": 1.068639,
+      "cluster_size": 25
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_233.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "chaparral_233.jpg",
+      "margin": 0.107963,
+      "d_intra": 0.733299,
+      "d_inter_min": 0.841263,
+      "cluster_size": 27
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_313.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "chaparral_313.jpg",
+      "margin": 0.227542,
+      "d_intra": 0.385438,
+      "d_inter_min": 0.612979,
+      "cluster_size": 114
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_369.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "chaparral_369.jpg",
+      "margin": 0.172353,
+      "d_intra": 0.514536,
+      "d_inter_min": 0.686889,
+      "cluster_size": 58
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_179.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "chaparral_179.jpg",
+      "margin": 0.112827,
+      "d_intra": 0.688902,
+      "d_inter_min": 0.80173,
+      "cluster_size": 50
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_467.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "chaparral_467.jpg",
+      "margin": 0.187282,
+      "d_intra": 0.456388,
+      "d_inter_min": 0.64367,
+      "cluster_size": 85
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/chaparral/chaparral_463.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "chaparral_463.jpg",
+      "margin": 0.178407,
+      "d_intra": 0.432297,
+      "d_inter_min": 0.610704,
+      "cluster_size": 140
+    }
+  ],
+  "church": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_452.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "church_452.jpg",
+      "margin": 0.229023,
+      "d_intra": 0.741218,
+      "d_inter_min": 0.970241,
+      "cluster_size": 16
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_193.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "church_193.jpg",
+      "margin": 0.158722,
+      "d_intra": 0.491806,
+      "d_inter_min": 0.650529,
+      "cluster_size": 51
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_241.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "church_241.jpg",
+      "margin": 0.137158,
+      "d_intra": 0.785185,
+      "d_inter_min": 0.922342,
+      "cluster_size": 59
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_368.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "church_368.jpg",
+      "margin": 0.167145,
+      "d_intra": 0.856984,
+      "d_inter_min": 1.02413,
+      "cluster_size": 73
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_203.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "church_203.jpg",
+      "margin": 0.131883,
+      "d_intra": 0.515805,
+      "d_inter_min": 0.647688,
+      "cluster_size": 216
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_121.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "church_121.jpg",
+      "margin": 0.2274,
+      "d_intra": 0.719784,
+      "d_inter_min": 0.947185,
+      "cluster_size": 34
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_572.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "church_572.jpg",
+      "margin": 0.178607,
+      "d_intra": 0.73319,
+      "d_inter_min": 0.911797,
+      "cluster_size": 32
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_499.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "church_499.jpg",
+      "margin": 0.362617,
+      "d_intra": 0.76515,
+      "d_inter_min": 1.127766,
+      "cluster_size": 22
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_296.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "church_296.jpg",
+      "margin": 0.102811,
+      "d_intra": 0.56544,
+      "d_inter_min": 0.66825,
+      "cluster_size": 73
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/church/church_182.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "church_182.jpg",
+      "margin": 0.188184,
+      "d_intra": 0.904991,
+      "d_inter_min": 1.093175,
+      "cluster_size": 24
+    }
+  ],
+  "circular_farmland": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_005.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "circular_farmland_005.jpg",
+      "margin": 0.30105,
+      "d_intra": 0.722218,
+      "d_inter_min": 1.023269,
+      "cluster_size": 13
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_071.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "circular_farmland_071.jpg",
+      "margin": 0.214765,
+      "d_intra": 0.802154,
+      "d_inter_min": 1.016919,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_263.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "circular_farmland_263.jpg",
+      "margin": 0.120508,
+      "d_intra": 0.454121,
+      "d_inter_min": 0.574628,
+      "cluster_size": 127
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_013.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "circular_farmland_013.jpg",
+      "margin": 0.147948,
+      "d_intra": 0.486973,
+      "d_inter_min": 0.634921,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_103.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "circular_farmland_103.jpg",
+      "margin": 0.120158,
+      "d_intra": 0.643847,
+      "d_inter_min": 0.764006,
+      "cluster_size": 104
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_358.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "circular_farmland_358.jpg",
+      "margin": 0.112957,
+      "d_intra": 0.64771,
+      "d_inter_min": 0.760667,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_290.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "circular_farmland_290.jpg",
+      "margin": 0.406571,
+      "d_intra": 0.572453,
+      "d_inter_min": 0.979024,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_433.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "circular_farmland_433.jpg",
+      "margin": 0.199406,
+      "d_intra": 0.62106,
+      "d_inter_min": 0.820466,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_271.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "circular_farmland_271.jpg",
+      "margin": 0.200861,
+      "d_intra": 0.682201,
+      "d_inter_min": 0.883063,
+      "cluster_size": 40
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/circular_farmland/circular_farmland_514.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "circular_farmland_514.jpg",
+      "margin": 0.129341,
+      "d_intra": 0.497273,
+      "d_inter_min": 0.626613,
+      "cluster_size": 120
+    }
+  ],
+  "cloud": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_033.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "cloud_033.jpg",
+      "margin": 0.260662,
+      "d_intra": 0.608471,
+      "d_inter_min": 0.869133,
+      "cluster_size": 103
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_068.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "cloud_068.jpg",
+      "margin": 0.31736,
+      "d_intra": 0.609761,
+      "d_inter_min": 0.927121,
+      "cluster_size": 73
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_241.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "cloud_241.jpg",
+      "margin": 0.306101,
+      "d_intra": 0.657928,
+      "d_inter_min": 0.964029,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_088.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "cloud_088.jpg",
+      "margin": 0.351497,
+      "d_intra": 0.658758,
+      "d_inter_min": 1.010255,
+      "cluster_size": 40
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_388.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "cloud_388.jpg",
+      "margin": 0.398737,
+      "d_intra": 0.581333,
+      "d_inter_min": 0.98007,
+      "cluster_size": 66
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_567.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "cloud_567.jpg",
+      "margin": 0.32919,
+      "d_intra": 0.664591,
+      "d_inter_min": 0.993781,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_154.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "cloud_154.jpg",
+      "margin": 0.417866,
+      "d_intra": 0.524011,
+      "d_inter_min": 0.941877,
+      "cluster_size": 61
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_352.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "cloud_352.jpg",
+      "margin": 0.390955,
+      "d_intra": 0.613668,
+      "d_inter_min": 1.004624,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_527.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "cloud_527.jpg",
+      "margin": 0.349109,
+      "d_intra": 0.438019,
+      "d_inter_min": 0.787128,
+      "cluster_size": 83
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/cloud/cloud_246.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "cloud_246.jpg",
+      "margin": 0.371047,
+      "d_intra": 0.592816,
+      "d_inter_min": 0.963863,
+      "cluster_size": 57
+    }
+  ],
+  "commercial_area": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_399.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "commercial_area_399.jpg",
+      "margin": 0.149019,
+      "d_intra": 0.888783,
+      "d_inter_min": 1.037802,
+      "cluster_size": 43
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_520.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "commercial_area_520.jpg",
+      "margin": 0.194606,
+      "d_intra": 0.856164,
+      "d_inter_min": 1.050769,
+      "cluster_size": 29
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_094.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "commercial_area_094.jpg",
+      "margin": 0.142977,
+      "d_intra": 0.497264,
+      "d_inter_min": 0.640241,
+      "cluster_size": 168
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_226.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "commercial_area_226.jpg",
+      "margin": 0.327598,
+      "d_intra": 0.755911,
+      "d_inter_min": 1.083508,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_083.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "commercial_area_083.jpg",
+      "margin": 0.273714,
+      "d_intra": 0.822691,
+      "d_inter_min": 1.096405,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_247.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "commercial_area_247.jpg",
+      "margin": 0.126112,
+      "d_intra": 0.691698,
+      "d_inter_min": 0.81781,
+      "cluster_size": 82
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_326.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "commercial_area_326.jpg",
+      "margin": 0.130796,
+      "d_intra": 0.512083,
+      "d_inter_min": 0.64288,
+      "cluster_size": 133
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_257.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "commercial_area_257.jpg",
+      "margin": 0.175505,
+      "d_intra": 0.763965,
+      "d_inter_min": 0.93947,
+      "cluster_size": 77
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_550.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "commercial_area_550.jpg",
+      "margin": 0.279147,
+      "d_intra": 0.697782,
+      "d_inter_min": 0.976929,
+      "cluster_size": 25
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/commercial_area/commercial_area_252.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "commercial_area_252.jpg",
+      "margin": 0.166559,
+      "d_intra": 0.815784,
+      "d_inter_min": 0.982343,
+      "cluster_size": 32
+    }
+  ],
+  "dense_residential": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_567.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "dense_residential_567.jpg",
+      "margin": 0.197346,
+      "d_intra": 0.803742,
+      "d_inter_min": 1.001088,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_524.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "dense_residential_524.jpg",
+      "margin": 0.067021,
+      "d_intra": 0.639337,
+      "d_inter_min": 0.706358,
+      "cluster_size": 107
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_483.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "dense_residential_483.jpg",
+      "margin": 0.133228,
+      "d_intra": 0.562388,
+      "d_inter_min": 0.695616,
+      "cluster_size": 145
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_413.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "dense_residential_413.jpg",
+      "margin": 0.114169,
+      "d_intra": 0.949963,
+      "d_inter_min": 1.064132,
+      "cluster_size": 22
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_227.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "dense_residential_227.jpg",
+      "margin": 0.230601,
+      "d_intra": 0.791895,
+      "d_inter_min": 1.022496,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_090.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "dense_residential_090.jpg",
+      "margin": 0.204791,
+      "d_intra": 0.689435,
+      "d_inter_min": 0.894226,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_219.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "dense_residential_219.jpg",
+      "margin": 0.118687,
+      "d_intra": 0.825785,
+      "d_inter_min": 0.944472,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_373.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "dense_residential_373.jpg",
+      "margin": 0.260692,
+      "d_intra": 0.262473,
+      "d_inter_min": 0.523165,
+      "cluster_size": 155
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_350.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "dense_residential_350.jpg",
+      "margin": 0.141241,
+      "d_intra": 0.841147,
+      "d_inter_min": 0.982388,
+      "cluster_size": 13
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/dense_residential/dense_residential_008.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "dense_residential_008.jpg",
+      "margin": 0.232815,
+      "d_intra": 0.744594,
+      "d_inter_min": 0.977409,
+      "cluster_size": 23
+    }
+  ],
+  "desert": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_283.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "desert_283.jpg",
+      "margin": 0.243535,
+      "d_intra": 0.400226,
+      "d_inter_min": 0.643761,
+      "cluster_size": 21
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_217.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "desert_217.jpg",
+      "margin": 0.165254,
+      "d_intra": 0.382103,
+      "d_inter_min": 0.547357,
+      "cluster_size": 124
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_498.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "desert_498.jpg",
+      "margin": 0.149665,
+      "d_intra": 0.531,
+      "d_inter_min": 0.680665,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_274.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "desert_274.jpg",
+      "margin": 0.371903,
+      "d_intra": 0.779672,
+      "d_inter_min": 1.151575,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_055.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "desert_055.jpg",
+      "margin": 0.153886,
+      "d_intra": 0.203715,
+      "d_inter_min": 0.357602,
+      "cluster_size": 183
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_564.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "desert_564.jpg",
+      "margin": 0.338329,
+      "d_intra": 0.575096,
+      "d_inter_min": 0.913425,
+      "cluster_size": 16
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_452.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "desert_452.jpg",
+      "margin": 0.204964,
+      "d_intra": 0.179056,
+      "d_inter_min": 0.38402,
+      "cluster_size": 119
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_550.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "desert_550.jpg",
+      "margin": 0.253411,
+      "d_intra": 0.721516,
+      "d_inter_min": 0.974927,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_194.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "desert_194.jpg",
+      "margin": 0.209582,
+      "d_intra": 0.301135,
+      "d_inter_min": 0.510717,
+      "cluster_size": 43
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/desert/desert_401.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "desert_401.jpg",
+      "margin": 0.331464,
+      "d_intra": 0.807447,
+      "d_inter_min": 1.138911,
+      "cluster_size": 11
+    }
+  ],
+  "forest": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_020.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "forest_020.jpg",
+      "margin": 0.092425,
+      "d_intra": 0.38108,
+      "d_inter_min": 0.473505,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_044.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "forest_044.jpg",
+      "margin": 0.099425,
+      "d_intra": 0.267041,
+      "d_inter_min": 0.366466,
+      "cluster_size": 89
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_304.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "forest_304.jpg",
+      "margin": 0.047089,
+      "d_intra": 0.200897,
+      "d_inter_min": 0.247987,
+      "cluster_size": 99
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_016.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "forest_016.jpg",
+      "margin": 0.12822,
+      "d_intra": 0.504064,
+      "d_inter_min": 0.632284,
+      "cluster_size": 56
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_018.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "forest_018.jpg",
+      "margin": 0.041922,
+      "d_intra": 0.249479,
+      "d_inter_min": 0.291401,
+      "cluster_size": 42
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_465.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "forest_465.jpg",
+      "margin": 0.106367,
+      "d_intra": 0.378085,
+      "d_inter_min": 0.484452,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_377.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "forest_377.jpg",
+      "margin": 0.077732,
+      "d_intra": 0.24871,
+      "d_inter_min": 0.326442,
+      "cluster_size": 103
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_093.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "forest_093.jpg",
+      "margin": 0.056994,
+      "d_intra": 0.316827,
+      "d_inter_min": 0.373821,
+      "cluster_size": 25
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_487.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "forest_487.jpg",
+      "margin": 0.100119,
+      "d_intra": 0.264416,
+      "d_inter_min": 0.364535,
+      "cluster_size": 75
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/forest/forest_368.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "forest_368.jpg",
+      "margin": 0.05305,
+      "d_intra": 0.320385,
+      "d_inter_min": 0.373436,
+      "cluster_size": 35
+    }
+  ],
+  "freeway": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_306.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "freeway_306.jpg",
+      "margin": 0.254444,
+      "d_intra": 0.892674,
+      "d_inter_min": 1.147118,
+      "cluster_size": 15
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_273.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "freeway_273.jpg",
+      "margin": 0.22577,
+      "d_intra": 0.765089,
+      "d_inter_min": 0.990859,
+      "cluster_size": 53
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_521.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "freeway_521.jpg",
+      "margin": 0.147339,
+      "d_intra": 0.774327,
+      "d_inter_min": 0.921666,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_291.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "freeway_291.jpg",
+      "margin": 0.339304,
+      "d_intra": 0.648583,
+      "d_inter_min": 0.987886,
+      "cluster_size": 21
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_309.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "freeway_309.jpg",
+      "margin": 0.230357,
+      "d_intra": 0.726099,
+      "d_inter_min": 0.956455,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_513.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "freeway_513.jpg",
+      "margin": 0.172566,
+      "d_intra": 0.448296,
+      "d_inter_min": 0.620863,
+      "cluster_size": 137
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_476.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "freeway_476.jpg",
+      "margin": 0.138986,
+      "d_intra": 0.438462,
+      "d_inter_min": 0.577449,
+      "cluster_size": 142
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_236.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "freeway_236.jpg",
+      "margin": 0.133951,
+      "d_intra": 0.446332,
+      "d_inter_min": 0.580282,
+      "cluster_size": 97
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_478.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "freeway_478.jpg",
+      "margin": 0.167212,
+      "d_intra": 0.849621,
+      "d_inter_min": 1.016833,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/freeway/freeway_378.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "freeway_378.jpg",
+      "margin": 0.223658,
+      "d_intra": 0.604228,
+      "d_inter_min": 0.827885,
+      "cluster_size": 44
+    }
+  ],
+  "golf_course": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_381.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "golf_course_381.jpg",
+      "margin": 0.092721,
+      "d_intra": 0.650905,
+      "d_inter_min": 0.743626,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_097.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "golf_course_097.jpg",
+      "margin": 0.064263,
+      "d_intra": 0.43188,
+      "d_inter_min": 0.496143,
+      "cluster_size": 137
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_378.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "golf_course_378.jpg",
+      "margin": 0.088823,
+      "d_intra": 0.557015,
+      "d_inter_min": 0.645838,
+      "cluster_size": 71
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_437.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "golf_course_437.jpg",
+      "margin": 0.130924,
+      "d_intra": 0.841058,
+      "d_inter_min": 0.971983,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_188.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "golf_course_188.jpg",
+      "margin": 0.139017,
+      "d_intra": 0.720174,
+      "d_inter_min": 0.859191,
+      "cluster_size": 25
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_164.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "golf_course_164.jpg",
+      "margin": 0.104222,
+      "d_intra": 0.739485,
+      "d_inter_min": 0.843707,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_371.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "golf_course_371.jpg",
+      "margin": 0.073725,
+      "d_intra": 0.433245,
+      "d_inter_min": 0.50697,
+      "cluster_size": 120
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_011.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "golf_course_011.jpg",
+      "margin": 0.097469,
+      "d_intra": 0.534532,
+      "d_inter_min": 0.632001,
+      "cluster_size": 109
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_032.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "golf_course_032.jpg",
+      "margin": 0.069536,
+      "d_intra": 0.665768,
+      "d_inter_min": 0.735304,
+      "cluster_size": 63
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/golf_course/golf_course_191.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "golf_course_191.jpg",
+      "margin": 0.398281,
+      "d_intra": 0.505619,
+      "d_inter_min": 0.9039,
+      "cluster_size": 2
+    }
+  ],
+  "ground_track_field": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_142.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "ground_track_field_142.jpg",
+      "margin": 0.102216,
+      "d_intra": 0.58625,
+      "d_inter_min": 0.688467,
+      "cluster_size": 56
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_065.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "ground_track_field_065.jpg",
+      "margin": 0.130632,
+      "d_intra": 0.730056,
+      "d_inter_min": 0.860687,
+      "cluster_size": 29
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_518.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "ground_track_field_518.jpg",
+      "margin": 0.150952,
+      "d_intra": 0.922874,
+      "d_inter_min": 1.073826,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_374.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "ground_track_field_374.jpg",
+      "margin": 0.148951,
+      "d_intra": 0.890302,
+      "d_inter_min": 1.039253,
+      "cluster_size": 19
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_328.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "ground_track_field_328.jpg",
+      "margin": 0.140585,
+      "d_intra": 0.40027,
+      "d_inter_min": 0.540855,
+      "cluster_size": 107
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_113.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "ground_track_field_113.jpg",
+      "margin": 0.108984,
+      "d_intra": 0.511483,
+      "d_inter_min": 0.620467,
+      "cluster_size": 96
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_140.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "ground_track_field_140.jpg",
+      "margin": 0.168995,
+      "d_intra": 0.701311,
+      "d_inter_min": 0.870306,
+      "cluster_size": 55
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_528.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "ground_track_field_528.jpg",
+      "margin": 0.144497,
+      "d_intra": 0.609299,
+      "d_inter_min": 0.753795,
+      "cluster_size": 78
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_271.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "ground_track_field_271.jpg",
+      "margin": 0.135877,
+      "d_intra": 0.680913,
+      "d_inter_min": 0.81679,
+      "cluster_size": 61
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ground_track_field/ground_track_field_211.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "ground_track_field_211.jpg",
+      "margin": 0.209957,
+      "d_intra": 0.970982,
+      "d_inter_min": 1.180939,
+      "cluster_size": 71
+    }
+  ],
+  "harbor": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_461.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "harbor_461.jpg",
+      "margin": 0.268884,
+      "d_intra": 0.458045,
+      "d_inter_min": 0.726928,
+      "cluster_size": 58
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_208.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "harbor_208.jpg",
+      "margin": 0.17402,
+      "d_intra": 0.585274,
+      "d_inter_min": 0.759294,
+      "cluster_size": 92
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_349.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "harbor_349.jpg",
+      "margin": 0.165612,
+      "d_intra": 0.748685,
+      "d_inter_min": 0.914296,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_472.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "harbor_472.jpg",
+      "margin": 0.292947,
+      "d_intra": 0.872598,
+      "d_inter_min": 1.165545,
+      "cluster_size": 32
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_115.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "harbor_115.jpg",
+      "margin": 0.145233,
+      "d_intra": 0.794641,
+      "d_inter_min": 0.939873,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_442.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "harbor_442.jpg",
+      "margin": 0.127367,
+      "d_intra": 0.498073,
+      "d_inter_min": 0.62544,
+      "cluster_size": 106
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_281.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "harbor_281.jpg",
+      "margin": 0.247354,
+      "d_intra": 0.461592,
+      "d_inter_min": 0.708946,
+      "cluster_size": 81
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_008.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "harbor_008.jpg",
+      "margin": 0.196916,
+      "d_intra": 0.483562,
+      "d_inter_min": 0.680478,
+      "cluster_size": 87
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_312.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "harbor_312.jpg",
+      "margin": 0.192753,
+      "d_intra": 0.960046,
+      "d_inter_min": 1.152799,
+      "cluster_size": 41
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/harbor/harbor_279.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "harbor_279.jpg",
+      "margin": 0.19567,
+      "d_intra": 0.943752,
+      "d_inter_min": 1.139422,
+      "cluster_size": 33
+    }
+  ],
+  "industrial_area": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_266.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "industrial_area_266.jpg",
+      "margin": 0.194148,
+      "d_intra": 0.868535,
+      "d_inter_min": 1.062683,
+      "cluster_size": 34
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_223.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "industrial_area_223.jpg",
+      "margin": 0.181424,
+      "d_intra": 0.63015,
+      "d_inter_min": 0.811574,
+      "cluster_size": 94
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_010.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "industrial_area_010.jpg",
+      "margin": 0.251768,
+      "d_intra": 0.709707,
+      "d_inter_min": 0.961475,
+      "cluster_size": 53
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_164.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "industrial_area_164.jpg",
+      "margin": 0.124053,
+      "d_intra": 0.79593,
+      "d_inter_min": 0.919983,
+      "cluster_size": 94
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_480.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "industrial_area_480.jpg",
+      "margin": 0.136619,
+      "d_intra": 0.79801,
+      "d_inter_min": 0.93463,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_103.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "industrial_area_103.jpg",
+      "margin": 0.214465,
+      "d_intra": 0.722444,
+      "d_inter_min": 0.936909,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_309.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "industrial_area_309.jpg",
+      "margin": 0.14092,
+      "d_intra": 0.824494,
+      "d_inter_min": 0.965414,
+      "cluster_size": 69
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_020.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "industrial_area_020.jpg",
+      "margin": 0.15336,
+      "d_intra": 0.822479,
+      "d_inter_min": 0.975839,
+      "cluster_size": 54
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_015.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "industrial_area_015.jpg",
+      "margin": 0.21776,
+      "d_intra": 0.553826,
+      "d_inter_min": 0.771586,
+      "cluster_size": 71
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/industrial_area/industrial_area_404.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "industrial_area_404.jpg",
+      "margin": 0.265402,
+      "d_intra": 0.865322,
+      "d_inter_min": 1.130724,
+      "cluster_size": 36
+    }
+  ],
+  "intersection": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_335.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "intersection_335.jpg",
+      "margin": 0.115776,
+      "d_intra": 0.780532,
+      "d_inter_min": 0.896307,
+      "cluster_size": 72
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_056.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "intersection_056.jpg",
+      "margin": 0.104073,
+      "d_intra": 0.734021,
+      "d_inter_min": 0.838094,
+      "cluster_size": 96
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_154.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "intersection_154.jpg",
+      "margin": 0.144574,
+      "d_intra": 0.825778,
+      "d_inter_min": 0.970352,
+      "cluster_size": 50
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_179.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "intersection_179.jpg",
+      "margin": 0.170861,
+      "d_intra": 0.894443,
+      "d_inter_min": 1.065304,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_552.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "intersection_552.jpg",
+      "margin": 0.199749,
+      "d_intra": 0.715658,
+      "d_inter_min": 0.915408,
+      "cluster_size": 43
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_296.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "intersection_296.jpg",
+      "margin": 0.149323,
+      "d_intra": 0.50995,
+      "d_inter_min": 0.659273,
+      "cluster_size": 110
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_357.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "intersection_357.jpg",
+      "margin": 0.110243,
+      "d_intra": 0.493492,
+      "d_inter_min": 0.603735,
+      "cluster_size": 99
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_135.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "intersection_135.jpg",
+      "margin": 0.296071,
+      "d_intra": 0.839217,
+      "d_inter_min": 1.135288,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_202.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "intersection_202.jpg",
+      "margin": 0.190412,
+      "d_intra": 0.785582,
+      "d_inter_min": 0.975995,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/intersection/intersection_077.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "intersection_077.jpg",
+      "margin": 0.323399,
+      "d_intra": 0.731894,
+      "d_inter_min": 1.055293,
+      "cluster_size": 12
+    }
+  ],
+  "island": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_160.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "island_160.jpg",
+      "margin": 0.128311,
+      "d_intra": 0.404788,
+      "d_inter_min": 0.533099,
+      "cluster_size": 136
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_137.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "island_137.jpg",
+      "margin": 0.150072,
+      "d_intra": 0.365751,
+      "d_inter_min": 0.515823,
+      "cluster_size": 100
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_455.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "island_455.jpg",
+      "margin": 0.180862,
+      "d_intra": 0.394045,
+      "d_inter_min": 0.574907,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_308.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "island_308.jpg",
+      "margin": 0.133535,
+      "d_intra": 0.556203,
+      "d_inter_min": 0.689738,
+      "cluster_size": 70
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_003.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "island_003.jpg",
+      "margin": 0.260358,
+      "d_intra": 0.653967,
+      "d_inter_min": 0.914325,
+      "cluster_size": 19
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_472.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "island_472.jpg",
+      "margin": 0.137364,
+      "d_intra": 0.269056,
+      "d_inter_min": 0.406421,
+      "cluster_size": 110
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_365.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "island_365.jpg",
+      "margin": 0.431819,
+      "d_intra": 0.539791,
+      "d_inter_min": 0.97161,
+      "cluster_size": 10
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_325.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "island_325.jpg",
+      "margin": 0.199903,
+      "d_intra": 0.580977,
+      "d_inter_min": 0.780879,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_382.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "island_382.jpg",
+      "margin": 0.208839,
+      "d_intra": 0.673846,
+      "d_inter_min": 0.882684,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/island/island_392.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "island_392.jpg",
+      "margin": 0.230373,
+      "d_intra": 0.457415,
+      "d_inter_min": 0.687788,
+      "cluster_size": 44
+    }
+  ],
+  "lake": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_238.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "lake_238.jpg",
+      "margin": 0.144889,
+      "d_intra": 0.781957,
+      "d_inter_min": 0.926846,
+      "cluster_size": 72
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_574.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "lake_574.jpg",
+      "margin": 0.230816,
+      "d_intra": 0.689098,
+      "d_inter_min": 0.919914,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_559.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "lake_559.jpg",
+      "margin": 0.275517,
+      "d_intra": 0.613265,
+      "d_inter_min": 0.888782,
+      "cluster_size": 17
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_564.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "lake_564.jpg",
+      "margin": 0.185366,
+      "d_intra": 0.463152,
+      "d_inter_min": 0.648517,
+      "cluster_size": 164
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_239.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "lake_239.jpg",
+      "margin": 0.193355,
+      "d_intra": 0.726222,
+      "d_inter_min": 0.919577,
+      "cluster_size": 41
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_462.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "lake_462.jpg",
+      "margin": 0.233222,
+      "d_intra": 0.688625,
+      "d_inter_min": 0.921847,
+      "cluster_size": 33
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_435.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "lake_435.jpg",
+      "margin": 0.325586,
+      "d_intra": 0.631413,
+      "d_inter_min": 0.957,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_475.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "lake_475.jpg",
+      "margin": 0.329234,
+      "d_intra": 0.702901,
+      "d_inter_min": 1.032135,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_190.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "lake_190.jpg",
+      "margin": 0.223279,
+      "d_intra": 0.724046,
+      "d_inter_min": 0.947325,
+      "cluster_size": 17
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/lake/lake_286.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "lake_286.jpg",
+      "margin": 0.19273,
+      "d_intra": 0.319238,
+      "d_inter_min": 0.511967,
+      "cluster_size": 172
+    }
+  ],
+  "meadow": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_117.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "meadow_117.jpg",
+      "margin": 0.089693,
+      "d_intra": 0.519748,
+      "d_inter_min": 0.609441,
+      "cluster_size": 21
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_339.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "meadow_339.jpg",
+      "margin": 0.137694,
+      "d_intra": 0.29979,
+      "d_inter_min": 0.437484,
+      "cluster_size": 74
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_093.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "meadow_093.jpg",
+      "margin": 0.086977,
+      "d_intra": 0.591842,
+      "d_inter_min": 0.678819,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_206.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "meadow_206.jpg",
+      "margin": 0.12939,
+      "d_intra": 0.531864,
+      "d_inter_min": 0.661253,
+      "cluster_size": 14
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_102.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "meadow_102.jpg",
+      "margin": 0.084166,
+      "d_intra": 0.294574,
+      "d_inter_min": 0.37874,
+      "cluster_size": 106
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_278.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "meadow_278.jpg",
+      "margin": 0.094331,
+      "d_intra": 0.331773,
+      "d_inter_min": 0.426104,
+      "cluster_size": 80
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_127.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "meadow_127.jpg",
+      "margin": 0.04995,
+      "d_intra": 0.280518,
+      "d_inter_min": 0.330468,
+      "cluster_size": 111
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_257.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "meadow_257.jpg",
+      "margin": 1.084469,
+      "d_intra": 0.0,
+      "d_inter_min": 1.084469,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_151.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "meadow_151.jpg",
+      "margin": 0.112713,
+      "d_intra": 0.540678,
+      "d_inter_min": 0.653391,
+      "cluster_size": 53
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/meadow/meadow_376.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "meadow_376.jpg",
+      "margin": 0.069482,
+      "d_intra": 0.258727,
+      "d_inter_min": 0.328209,
+      "cluster_size": 112
+    }
+  ],
+  "medium_residential": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_575.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "medium_residential_575.jpg",
+      "margin": 0.151967,
+      "d_intra": 0.833372,
+      "d_inter_min": 0.985339,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_471.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "medium_residential_471.jpg",
+      "margin": 0.147483,
+      "d_intra": 0.719018,
+      "d_inter_min": 0.866501,
+      "cluster_size": 30
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_135.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "medium_residential_135.jpg",
+      "margin": 0.076785,
+      "d_intra": 0.760731,
+      "d_inter_min": 0.837516,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_598.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "medium_residential_598.jpg",
+      "margin": 0.091353,
+      "d_intra": 0.591249,
+      "d_inter_min": 0.682601,
+      "cluster_size": 69
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_298.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "medium_residential_298.jpg",
+      "margin": 0.080468,
+      "d_intra": 0.84481,
+      "d_inter_min": 0.925278,
+      "cluster_size": 48
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_185.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "medium_residential_185.jpg",
+      "margin": 0.192932,
+      "d_intra": 0.956738,
+      "d_inter_min": 1.14967,
+      "cluster_size": 19
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_183.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "medium_residential_183.jpg",
+      "margin": 0.110514,
+      "d_intra": 0.577609,
+      "d_inter_min": 0.688123,
+      "cluster_size": 64
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_268.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "medium_residential_268.jpg",
+      "margin": 0.129781,
+      "d_intra": 0.43702,
+      "d_inter_min": 0.566801,
+      "cluster_size": 176
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_512.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "medium_residential_512.jpg",
+      "margin": 0.071286,
+      "d_intra": 0.682693,
+      "d_inter_min": 0.75398,
+      "cluster_size": 93
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/medium_residential/medium_residential_017.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "medium_residential_017.jpg",
+      "margin": 0.137688,
+      "d_intra": 0.903573,
+      "d_inter_min": 1.041262,
+      "cluster_size": 33
+    }
+  ],
+  "mobile_home_park": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_162.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "mobile_home_park_162.jpg",
+      "margin": 0.154722,
+      "d_intra": 0.474392,
+      "d_inter_min": 0.629114,
+      "cluster_size": 114
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_407.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "mobile_home_park_407.jpg",
+      "margin": 0.132344,
+      "d_intra": 0.739516,
+      "d_inter_min": 0.871861,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_232.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "mobile_home_park_232.jpg",
+      "margin": 0.218302,
+      "d_intra": 0.737754,
+      "d_inter_min": 0.956056,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_085.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "mobile_home_park_085.jpg",
+      "margin": 0.080957,
+      "d_intra": 0.687484,
+      "d_inter_min": 0.768441,
+      "cluster_size": 106
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_004.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "mobile_home_park_004.jpg",
+      "margin": 0.131284,
+      "d_intra": 0.797113,
+      "d_inter_min": 0.928397,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_147.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "mobile_home_park_147.jpg",
+      "margin": 0.164289,
+      "d_intra": 0.796726,
+      "d_inter_min": 0.961015,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_372.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "mobile_home_park_372.jpg",
+      "margin": 0.129858,
+      "d_intra": 0.797026,
+      "d_inter_min": 0.926884,
+      "cluster_size": 51
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_467.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "mobile_home_park_467.jpg",
+      "margin": 0.219736,
+      "d_intra": 0.586568,
+      "d_inter_min": 0.806304,
+      "cluster_size": 79
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_371.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "mobile_home_park_371.jpg",
+      "margin": 0.122757,
+      "d_intra": 0.853632,
+      "d_inter_min": 0.976389,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mobile_home_park/mobile_home_park_480.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "mobile_home_park_480.jpg",
+      "margin": 0.204332,
+      "d_intra": 0.792597,
+      "d_inter_min": 0.996929,
+      "cluster_size": 42
+    }
+  ],
+  "mountain": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_210.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "mountain_210.jpg",
+      "margin": 0.27466,
+      "d_intra": 0.754944,
+      "d_inter_min": 1.029604,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_440.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "mountain_440.jpg",
+      "margin": 0.248175,
+      "d_intra": 0.741199,
+      "d_inter_min": 0.989374,
+      "cluster_size": 38
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_019.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "mountain_019.jpg",
+      "margin": 0.284559,
+      "d_intra": 0.318345,
+      "d_inter_min": 0.602904,
+      "cluster_size": 229
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_025.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "mountain_025.jpg",
+      "margin": 0.164632,
+      "d_intra": 0.951035,
+      "d_inter_min": 1.115667,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_377.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "mountain_377.jpg",
+      "margin": 0.264078,
+      "d_intra": 0.745866,
+      "d_inter_min": 1.009945,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_449.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "mountain_449.jpg",
+      "margin": 0.236054,
+      "d_intra": 0.737289,
+      "d_inter_min": 0.973342,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_225.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "mountain_225.jpg",
+      "margin": 0.321777,
+      "d_intra": 0.76696,
+      "d_inter_min": 1.088737,
+      "cluster_size": 29
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_289.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "mountain_289.jpg",
+      "margin": 0.23262,
+      "d_intra": 0.552058,
+      "d_inter_min": 0.784678,
+      "cluster_size": 70
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_552.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "mountain_552.jpg",
+      "margin": 0.222992,
+      "d_intra": 0.779899,
+      "d_inter_min": 1.002892,
+      "cluster_size": 39
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/mountain/mountain_555.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "mountain_555.jpg",
+      "margin": 0.289881,
+      "d_intra": 0.439586,
+      "d_inter_min": 0.729467,
+      "cluster_size": 52
+    }
+  ],
+  "overpass": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_069.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "overpass_069.jpg",
+      "margin": 0.384672,
+      "d_intra": 0.672309,
+      "d_inter_min": 1.056981,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_092.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "overpass_092.jpg",
+      "margin": 0.129742,
+      "d_intra": 0.791322,
+      "d_inter_min": 0.921064,
+      "cluster_size": 60
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_535.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "overpass_535.jpg",
+      "margin": 0.094371,
+      "d_intra": 0.673521,
+      "d_inter_min": 0.767892,
+      "cluster_size": 110
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_006.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "overpass_006.jpg",
+      "margin": 0.101702,
+      "d_intra": 0.939481,
+      "d_inter_min": 1.041183,
+      "cluster_size": 59
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_162.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "overpass_162.jpg",
+      "margin": 0.102174,
+      "d_intra": 0.577256,
+      "d_inter_min": 0.679429,
+      "cluster_size": 74
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_155.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "overpass_155.jpg",
+      "margin": 0.176876,
+      "d_intra": 0.815524,
+      "d_inter_min": 0.9924,
+      "cluster_size": 16
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_415.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "overpass_415.jpg",
+      "margin": 0.158367,
+      "d_intra": 0.695899,
+      "d_inter_min": 0.854265,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_201.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "overpass_201.jpg",
+      "margin": 0.222294,
+      "d_intra": 0.883317,
+      "d_inter_min": 1.105611,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_207.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "overpass_207.jpg",
+      "margin": 0.160088,
+      "d_intra": 0.762027,
+      "d_inter_min": 0.922115,
+      "cluster_size": 71
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/overpass/overpass_463.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "overpass_463.jpg",
+      "margin": 0.187069,
+      "d_intra": 0.509842,
+      "d_inter_min": 0.696911,
+      "cluster_size": 122
+    }
+  ],
+  "palace": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_517.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "palace_517.jpg",
+      "margin": 0.26825,
+      "d_intra": 0.838337,
+      "d_inter_min": 1.106587,
+      "cluster_size": 55
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_149.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "palace_149.jpg",
+      "margin": 0.208849,
+      "d_intra": 0.412118,
+      "d_inter_min": 0.620967,
+      "cluster_size": 130
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_277.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "palace_277.jpg",
+      "margin": 0.168947,
+      "d_intra": 0.832473,
+      "d_inter_min": 1.00142,
+      "cluster_size": 47
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_299.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "palace_299.jpg",
+      "margin": 0.21647,
+      "d_intra": 0.756173,
+      "d_inter_min": 0.972642,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_361.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "palace_361.jpg",
+      "margin": 0.192273,
+      "d_intra": 0.819253,
+      "d_inter_min": 1.011526,
+      "cluster_size": 26
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_319.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "palace_319.jpg",
+      "margin": 0.199049,
+      "d_intra": 0.784911,
+      "d_inter_min": 0.983961,
+      "cluster_size": 59
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_163.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "palace_163.jpg",
+      "margin": 0.260004,
+      "d_intra": 0.530355,
+      "d_inter_min": 0.790359,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_599.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "palace_599.jpg",
+      "margin": 0.162374,
+      "d_intra": 0.856706,
+      "d_inter_min": 1.01908,
+      "cluster_size": 33
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_436.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "palace_436.jpg",
+      "margin": 0.178733,
+      "d_intra": 0.715832,
+      "d_inter_min": 0.894565,
+      "cluster_size": 70
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/palace/palace_412.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "palace_412.jpg",
+      "margin": 0.146371,
+      "d_intra": 0.586949,
+      "d_inter_min": 0.733321,
+      "cluster_size": 87
+    }
+  ],
+  "parking_lot": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_060.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "parking_lot_060.jpg",
+      "margin": 0.172911,
+      "d_intra": 0.800698,
+      "d_inter_min": 0.97361,
+      "cluster_size": 52
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_519.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "parking_lot_519.jpg",
+      "margin": 0.178468,
+      "d_intra": 0.81781,
+      "d_inter_min": 0.996278,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_163.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "parking_lot_163.jpg",
+      "margin": 0.15313,
+      "d_intra": 0.750275,
+      "d_inter_min": 0.903406,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_383.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "parking_lot_383.jpg",
+      "margin": 0.168642,
+      "d_intra": 0.875706,
+      "d_inter_min": 1.044348,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_346.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "parking_lot_346.jpg",
+      "margin": 0.135065,
+      "d_intra": 0.844552,
+      "d_inter_min": 0.979617,
+      "cluster_size": 78
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_195.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "parking_lot_195.jpg",
+      "margin": 0.241564,
+      "d_intra": 0.822135,
+      "d_inter_min": 1.063699,
+      "cluster_size": 34
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_490.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "parking_lot_490.jpg",
+      "margin": 0.17545,
+      "d_intra": 0.475207,
+      "d_inter_min": 0.650657,
+      "cluster_size": 141
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_509.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "parking_lot_509.jpg",
+      "margin": 0.311313,
+      "d_intra": 0.682552,
+      "d_inter_min": 0.993865,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_142.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "parking_lot_142.jpg",
+      "margin": 0.106745,
+      "d_intra": 0.641533,
+      "d_inter_min": 0.748279,
+      "cluster_size": 92
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/parking_lot/parking_lot_356.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "parking_lot_356.jpg",
+      "margin": 0.151928,
+      "d_intra": 0.796331,
+      "d_inter_min": 0.948259,
+      "cluster_size": 49
+    }
+  ],
+  "railway": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_310.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "railway_310.jpg",
+      "margin": 0.204312,
+      "d_intra": 0.804222,
+      "d_inter_min": 1.008534,
+      "cluster_size": 34
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_490.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "railway_490.jpg",
+      "margin": 0.157291,
+      "d_intra": 0.610879,
+      "d_inter_min": 0.76817,
+      "cluster_size": 110
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_270.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "railway_270.jpg",
+      "margin": 0.105029,
+      "d_intra": 0.657801,
+      "d_inter_min": 0.76283,
+      "cluster_size": 132
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_451.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "railway_451.jpg",
+      "margin": 0.181102,
+      "d_intra": 0.834474,
+      "d_inter_min": 1.015575,
+      "cluster_size": 43
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_473.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "railway_473.jpg",
+      "margin": 0.122343,
+      "d_intra": 0.632776,
+      "d_inter_min": 0.75512,
+      "cluster_size": 141
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_383.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "railway_383.jpg",
+      "margin": 0.234028,
+      "d_intra": 0.846702,
+      "d_inter_min": 1.08073,
+      "cluster_size": 20
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_534.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "railway_534.jpg",
+      "margin": 0.185551,
+      "d_intra": 0.799756,
+      "d_inter_min": 0.985307,
+      "cluster_size": 62
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_525.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "railway_525.jpg",
+      "margin": 0.263473,
+      "d_intra": 0.811921,
+      "d_inter_min": 1.075394,
+      "cluster_size": 15
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_173.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "railway_173.jpg",
+      "margin": 0.244665,
+      "d_intra": 0.738093,
+      "d_inter_min": 0.982758,
+      "cluster_size": 17
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway/railway_109.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "railway_109.jpg",
+      "margin": 0.180431,
+      "d_intra": 0.668553,
+      "d_inter_min": 0.848984,
+      "cluster_size": 26
+    }
+  ],
+  "railway_station": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_191.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "railway_station_191.jpg",
+      "margin": 0.276153,
+      "d_intra": 0.625764,
+      "d_inter_min": 0.901917,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_039.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "railway_station_039.jpg",
+      "margin": 0.244432,
+      "d_intra": 0.477041,
+      "d_inter_min": 0.721473,
+      "cluster_size": 126
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_308.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "railway_station_308.jpg",
+      "margin": 0.173998,
+      "d_intra": 0.803096,
+      "d_inter_min": 0.977095,
+      "cluster_size": 42
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_463.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "railway_station_463.jpg",
+      "margin": 0.243649,
+      "d_intra": 0.888686,
+      "d_inter_min": 1.132335,
+      "cluster_size": 47
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_343.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "railway_station_343.jpg",
+      "margin": 0.216586,
+      "d_intra": 0.571167,
+      "d_inter_min": 0.787753,
+      "cluster_size": 106
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_331.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "railway_station_331.jpg",
+      "margin": 0.248548,
+      "d_intra": 0.660117,
+      "d_inter_min": 0.908665,
+      "cluster_size": 80
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_574.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "railway_station_574.jpg",
+      "margin": 0.175053,
+      "d_intra": 0.749894,
+      "d_inter_min": 0.924947,
+      "cluster_size": 38
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_546.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "railway_station_546.jpg",
+      "margin": 0.226973,
+      "d_intra": 0.725742,
+      "d_inter_min": 0.952716,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_438.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "railway_station_438.jpg",
+      "margin": 0.208971,
+      "d_intra": 0.825833,
+      "d_inter_min": 1.034804,
+      "cluster_size": 48
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/railway_station/railway_station_144.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "railway_station_144.jpg",
+      "margin": 0.24505,
+      "d_intra": 0.794831,
+      "d_inter_min": 1.039881,
+      "cluster_size": 23
+    }
+  ],
+  "rectangular_farmland": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_373.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "rectangular_farmland_373.jpg",
+      "margin": 0.252043,
+      "d_intra": 0.640277,
+      "d_inter_min": 0.89232,
+      "cluster_size": 30
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_590.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "rectangular_farmland_590.jpg",
+      "margin": 0.206404,
+      "d_intra": 0.763845,
+      "d_inter_min": 0.970249,
+      "cluster_size": 48
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_375.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "rectangular_farmland_375.jpg",
+      "margin": 0.30456,
+      "d_intra": 0.529586,
+      "d_inter_min": 0.834146,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_458.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "rectangular_farmland_458.jpg",
+      "margin": 0.147065,
+      "d_intra": 0.345462,
+      "d_inter_min": 0.492528,
+      "cluster_size": 95
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_295.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "rectangular_farmland_295.jpg",
+      "margin": 0.296178,
+      "d_intra": 0.45689,
+      "d_inter_min": 0.753068,
+      "cluster_size": 39
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_524.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "rectangular_farmland_524.jpg",
+      "margin": 0.159222,
+      "d_intra": 0.361403,
+      "d_inter_min": 0.520624,
+      "cluster_size": 50
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_465.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "rectangular_farmland_465.jpg",
+      "margin": 0.17606,
+      "d_intra": 0.624488,
+      "d_inter_min": 0.800548,
+      "cluster_size": 47
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_560.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "rectangular_farmland_560.jpg",
+      "margin": 0.152161,
+      "d_intra": 0.266013,
+      "d_inter_min": 0.418173,
+      "cluster_size": 133
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_251.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "rectangular_farmland_251.jpg",
+      "margin": 0.120434,
+      "d_intra": 0.802259,
+      "d_inter_min": 0.922693,
+      "cluster_size": 101
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/rectangular_farmland/rectangular_farmland_015.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "rectangular_farmland_015.jpg",
+      "margin": 0.163992,
+      "d_intra": 0.732652,
+      "d_inter_min": 0.896644,
+      "cluster_size": 34
+    }
+  ],
+  "river": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_095.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "river_095.jpg",
+      "margin": 0.134667,
+      "d_intra": 0.450868,
+      "d_inter_min": 0.585536,
+      "cluster_size": 162
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_002.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "river_002.jpg",
+      "margin": 0.44144,
+      "d_intra": 0.561993,
+      "d_inter_min": 1.003433,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_519.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "river_519.jpg",
+      "margin": 0.214445,
+      "d_intra": 0.445036,
+      "d_inter_min": 0.659482,
+      "cluster_size": 137
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_394.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "river_394.jpg",
+      "margin": 0.378758,
+      "d_intra": 0.707925,
+      "d_inter_min": 1.086683,
+      "cluster_size": 13
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_577.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "river_577.jpg",
+      "margin": 0.317727,
+      "d_intra": 0.807131,
+      "d_inter_min": 1.124858,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_319.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "river_319.jpg",
+      "margin": 0.263083,
+      "d_intra": 0.818609,
+      "d_inter_min": 1.081692,
+      "cluster_size": 24
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_541.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "river_541.jpg",
+      "margin": 0.265286,
+      "d_intra": 0.652929,
+      "d_inter_min": 0.918215,
+      "cluster_size": 30
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_049.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "river_049.jpg",
+      "margin": 0.215007,
+      "d_intra": 0.799547,
+      "d_inter_min": 1.014554,
+      "cluster_size": 53
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_418.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "river_418.jpg",
+      "margin": 0.161881,
+      "d_intra": 0.437701,
+      "d_inter_min": 0.599582,
+      "cluster_size": 122
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/river/river_417.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "river_417.jpg",
+      "margin": 0.40282,
+      "d_intra": 0.575366,
+      "d_inter_min": 0.978186,
+      "cluster_size": 12
+    }
+  ],
+  "roundabout": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_310.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "roundabout_310.jpg",
+      "margin": 0.257714,
+      "d_intra": 0.844617,
+      "d_inter_min": 1.102331,
+      "cluster_size": 41
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_060.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "roundabout_060.jpg",
+      "margin": 0.15739,
+      "d_intra": 0.87073,
+      "d_inter_min": 1.02812,
+      "cluster_size": 50
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_443.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "roundabout_443.jpg",
+      "margin": 0.192859,
+      "d_intra": 0.83701,
+      "d_inter_min": 1.029868,
+      "cluster_size": 10
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_150.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "roundabout_150.jpg",
+      "margin": 0.128094,
+      "d_intra": 0.497287,
+      "d_inter_min": 0.625381,
+      "cluster_size": 85
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_045.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "roundabout_045.jpg",
+      "margin": 0.239205,
+      "d_intra": 0.86532,
+      "d_inter_min": 1.104525,
+      "cluster_size": 33
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_427.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "roundabout_427.jpg",
+      "margin": 0.156666,
+      "d_intra": 0.492455,
+      "d_inter_min": 0.649121,
+      "cluster_size": 159
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_024.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "roundabout_024.jpg",
+      "margin": 0.133307,
+      "d_intra": 0.764616,
+      "d_inter_min": 0.897923,
+      "cluster_size": 40
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_269.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "roundabout_269.jpg",
+      "margin": 0.139878,
+      "d_intra": 0.595757,
+      "d_inter_min": 0.735634,
+      "cluster_size": 56
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_097.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "roundabout_097.jpg",
+      "margin": 0.105507,
+      "d_intra": 0.829613,
+      "d_inter_min": 0.935119,
+      "cluster_size": 54
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/roundabout/roundabout_260.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "roundabout_260.jpg",
+      "margin": 0.199085,
+      "d_intra": 0.532874,
+      "d_inter_min": 0.731959,
+      "cluster_size": 72
+    }
+  ],
+  "runway": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_345.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "runway_345.jpg",
+      "margin": 0.418202,
+      "d_intra": 0.471381,
+      "d_inter_min": 0.889583,
+      "cluster_size": 79
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_568.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "runway_568.jpg",
+      "margin": 0.345166,
+      "d_intra": 0.288471,
+      "d_inter_min": 0.633636,
+      "cluster_size": 145
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_477.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "runway_477.jpg",
+      "margin": 0.187954,
+      "d_intra": 0.629983,
+      "d_inter_min": 0.817938,
+      "cluster_size": 49
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_412.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "runway_412.jpg",
+      "margin": 0.181224,
+      "d_intra": 0.833201,
+      "d_inter_min": 1.014425,
+      "cluster_size": 39
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_460.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "runway_460.jpg",
+      "margin": 0.290944,
+      "d_intra": 0.637839,
+      "d_inter_min": 0.928783,
+      "cluster_size": 27
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_160.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "runway_160.jpg",
+      "margin": 0.182634,
+      "d_intra": 0.535671,
+      "d_inter_min": 0.718305,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_186.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "runway_186.jpg",
+      "margin": 0.192541,
+      "d_intra": 0.605401,
+      "d_inter_min": 0.797943,
+      "cluster_size": 94
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_142.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "runway_142.jpg",
+      "margin": 0.121465,
+      "d_intra": 0.652225,
+      "d_inter_min": 0.77369,
+      "cluster_size": 66
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_379.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "runway_379.jpg",
+      "margin": 0.266904,
+      "d_intra": 0.638575,
+      "d_inter_min": 0.905478,
+      "cluster_size": 25
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/runway/runway_371.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "runway_371.jpg",
+      "margin": 0.245629,
+      "d_intra": 0.94486,
+      "d_inter_min": 1.190489,
+      "cluster_size": 30
+    }
+  ],
+  "sea_ice": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_232.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "sea_ice_232.jpg",
+      "margin": 0.232103,
+      "d_intra": 0.567406,
+      "d_inter_min": 0.799509,
+      "cluster_size": 12
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_079.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "sea_ice_079.jpg",
+      "margin": 0.228076,
+      "d_intra": 0.561695,
+      "d_inter_min": 0.789771,
+      "cluster_size": 42
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_294.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "sea_ice_294.jpg",
+      "margin": 0.180521,
+      "d_intra": 0.320434,
+      "d_inter_min": 0.500955,
+      "cluster_size": 205
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_322.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "sea_ice_322.jpg",
+      "margin": 0.109635,
+      "d_intra": 0.685561,
+      "d_inter_min": 0.795197,
+      "cluster_size": 61
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_179.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "sea_ice_179.jpg",
+      "margin": 0.218587,
+      "d_intra": 0.708843,
+      "d_inter_min": 0.92743,
+      "cluster_size": 30
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_539.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "sea_ice_539.jpg",
+      "margin": 0.203133,
+      "d_intra": 0.582609,
+      "d_inter_min": 0.785742,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_427.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "sea_ice_427.jpg",
+      "margin": 0.297866,
+      "d_intra": 0.768573,
+      "d_inter_min": 1.066439,
+      "cluster_size": 23
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_164.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "sea_ice_164.jpg",
+      "margin": 0.31015,
+      "d_intra": 0.606974,
+      "d_inter_min": 0.917124,
+      "cluster_size": 21
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_095.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "sea_ice_095.jpg",
+      "margin": 0.184886,
+      "d_intra": 0.557267,
+      "d_inter_min": 0.742153,
+      "cluster_size": 62
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sea_ice/sea_ice_146.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "sea_ice_146.jpg",
+      "margin": 0.228058,
+      "d_intra": 0.386759,
+      "d_inter_min": 0.614817,
+      "cluster_size": 98
+    }
+  ],
+  "ship": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_410.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "ship_410.jpg",
+      "margin": 0.304117,
+      "d_intra": 0.547135,
+      "d_inter_min": 0.851252,
+      "cluster_size": 62
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_107.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "ship_107.jpg",
+      "margin": 0.239789,
+      "d_intra": 0.658838,
+      "d_inter_min": 0.898627,
+      "cluster_size": 30
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_501.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "ship_501.jpg",
+      "margin": 0.160873,
+      "d_intra": 0.709308,
+      "d_inter_min": 0.870182,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_280.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "ship_280.jpg",
+      "margin": 0.256602,
+      "d_intra": 0.495599,
+      "d_inter_min": 0.752201,
+      "cluster_size": 66
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_086.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "ship_086.jpg",
+      "margin": 0.340919,
+      "d_intra": 0.641293,
+      "d_inter_min": 0.982212,
+      "cluster_size": 51
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_441.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "ship_441.jpg",
+      "margin": 0.290878,
+      "d_intra": 0.302125,
+      "d_inter_min": 0.593003,
+      "cluster_size": 108
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_367.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "ship_367.jpg",
+      "margin": 0.544099,
+      "d_intra": 0.779494,
+      "d_inter_min": 1.323593,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_263.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "ship_263.jpg",
+      "margin": 0.289201,
+      "d_intra": 0.36394,
+      "d_inter_min": 0.653141,
+      "cluster_size": 92
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_463.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "ship_463.jpg",
+      "margin": 0.277307,
+      "d_intra": 0.439407,
+      "d_inter_min": 0.716714,
+      "cluster_size": 73
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/ship/ship_031.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "ship_031.jpg",
+      "margin": 0.298969,
+      "d_intra": 0.558644,
+      "d_inter_min": 0.857613,
+      "cluster_size": 56
+    }
+  ],
+  "snowberg": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_383.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "snowberg_383.jpg",
+      "margin": 0.198714,
+      "d_intra": 0.614462,
+      "d_inter_min": 0.813176,
+      "cluster_size": 72
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_306.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "snowberg_306.jpg",
+      "margin": 0.398679,
+      "d_intra": 0.625452,
+      "d_inter_min": 1.024131,
+      "cluster_size": 51
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_039.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "snowberg_039.jpg",
+      "margin": 0.217372,
+      "d_intra": 0.605018,
+      "d_inter_min": 0.82239,
+      "cluster_size": 68
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_213.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "snowberg_213.jpg",
+      "margin": 0.260026,
+      "d_intra": 0.82756,
+      "d_inter_min": 1.087586,
+      "cluster_size": 58
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_010.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "snowberg_010.jpg",
+      "margin": 0.285948,
+      "d_intra": 0.679042,
+      "d_inter_min": 0.964989,
+      "cluster_size": 38
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_445.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "snowberg_445.jpg",
+      "margin": 0.161442,
+      "d_intra": 0.624171,
+      "d_inter_min": 0.785613,
+      "cluster_size": 66
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_316.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "snowberg_316.jpg",
+      "margin": 0.215598,
+      "d_intra": 0.843542,
+      "d_inter_min": 1.059139,
+      "cluster_size": 28
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_229.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "snowberg_229.jpg",
+      "margin": 0.322278,
+      "d_intra": 0.335539,
+      "d_inter_min": 0.657817,
+      "cluster_size": 109
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_236.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "snowberg_236.jpg",
+      "margin": 0.206297,
+      "d_intra": 0.661134,
+      "d_inter_min": 0.867431,
+      "cluster_size": 74
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/snowberg/snowberg_317.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "snowberg_317.jpg",
+      "margin": 0.262413,
+      "d_intra": 0.760295,
+      "d_inter_min": 1.022708,
+      "cluster_size": 36
+    }
+  ],
+  "sparse_residential": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_593.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "sparse_residential_593.jpg",
+      "margin": 0.105227,
+      "d_intra": 0.815788,
+      "d_inter_min": 0.921014,
+      "cluster_size": 87
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_386.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "sparse_residential_386.jpg",
+      "margin": 0.228999,
+      "d_intra": 0.794914,
+      "d_inter_min": 1.023913,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_030.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "sparse_residential_030.jpg",
+      "margin": 0.429759,
+      "d_intra": 0.657208,
+      "d_inter_min": 1.086967,
+      "cluster_size": 40
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_565.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "sparse_residential_565.jpg",
+      "margin": 0.218056,
+      "d_intra": 0.365091,
+      "d_inter_min": 0.583147,
+      "cluster_size": 173
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_367.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "sparse_residential_367.jpg",
+      "margin": 0.166911,
+      "d_intra": 0.674274,
+      "d_inter_min": 0.841185,
+      "cluster_size": 22
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_585.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "sparse_residential_585.jpg",
+      "margin": 0.147952,
+      "d_intra": 0.819806,
+      "d_inter_min": 0.967758,
+      "cluster_size": 29
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_550.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "sparse_residential_550.jpg",
+      "margin": 0.158767,
+      "d_intra": 0.377348,
+      "d_inter_min": 0.536116,
+      "cluster_size": 91
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_444.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "sparse_residential_444.jpg",
+      "margin": 0.116414,
+      "d_intra": 0.575682,
+      "d_inter_min": 0.692096,
+      "cluster_size": 87
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_556.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "sparse_residential_556.jpg",
+      "margin": 0.234888,
+      "d_intra": 0.856169,
+      "d_inter_min": 1.091057,
+      "cluster_size": 13
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/sparse_residential/sparse_residential_115.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "sparse_residential_115.jpg",
+      "margin": 0.221189,
+      "d_intra": 0.754711,
+      "d_inter_min": 0.9759,
+      "cluster_size": 21
+    }
+  ],
+  "stadium": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_140.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "stadium_140.jpg",
+      "margin": 0.19941,
+      "d_intra": 0.836797,
+      "d_inter_min": 1.036207,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_156.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "stadium_156.jpg",
+      "margin": 0.168113,
+      "d_intra": 0.723402,
+      "d_inter_min": 0.891516,
+      "cluster_size": 54
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_002.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "stadium_002.jpg",
+      "margin": 0.282792,
+      "d_intra": 0.649597,
+      "d_inter_min": 0.932389,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_219.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "stadium_219.jpg",
+      "margin": 0.213344,
+      "d_intra": 0.834051,
+      "d_inter_min": 1.047395,
+      "cluster_size": 33
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_358.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "stadium_358.jpg",
+      "margin": 0.147765,
+      "d_intra": 0.834799,
+      "d_inter_min": 0.982565,
+      "cluster_size": 110
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_479.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "stadium_479.jpg",
+      "margin": 0.19313,
+      "d_intra": 0.827767,
+      "d_inter_min": 1.020897,
+      "cluster_size": 59
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_447.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "stadium_447.jpg",
+      "margin": 0.152089,
+      "d_intra": 0.597695,
+      "d_inter_min": 0.749785,
+      "cluster_size": 94
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_586.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "stadium_586.jpg",
+      "margin": 0.176554,
+      "d_intra": 0.770078,
+      "d_inter_min": 0.946633,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_324.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "stadium_324.jpg",
+      "margin": 0.193372,
+      "d_intra": 0.842276,
+      "d_inter_min": 1.035648,
+      "cluster_size": 38
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/stadium/stadium_437.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "stadium_437.jpg",
+      "margin": 0.178801,
+      "d_intra": 0.790547,
+      "d_inter_min": 0.969348,
+      "cluster_size": 54
+    }
+  ],
+  "storage_tank": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_468.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "storage_tank_468.jpg",
+      "margin": 0.168126,
+      "d_intra": 0.817318,
+      "d_inter_min": 0.985444,
+      "cluster_size": 58
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_447.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "storage_tank_447.jpg",
+      "margin": 0.267307,
+      "d_intra": 0.767054,
+      "d_inter_min": 1.034362,
+      "cluster_size": 45
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_075.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "storage_tank_075.jpg",
+      "margin": 0.159438,
+      "d_intra": 0.6718,
+      "d_inter_min": 0.831238,
+      "cluster_size": 97
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_574.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "storage_tank_574.jpg",
+      "margin": 0.161727,
+      "d_intra": 0.816203,
+      "d_inter_min": 0.97793,
+      "cluster_size": 37
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_049.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "storage_tank_049.jpg",
+      "margin": 0.270044,
+      "d_intra": 0.681916,
+      "d_inter_min": 0.95196,
+      "cluster_size": 60
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_465.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "storage_tank_465.jpg",
+      "margin": 0.163403,
+      "d_intra": 0.946954,
+      "d_inter_min": 1.110357,
+      "cluster_size": 47
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_461.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "storage_tank_461.jpg",
+      "margin": 0.178487,
+      "d_intra": 0.761066,
+      "d_inter_min": 0.939553,
+      "cluster_size": 43
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_001.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "storage_tank_001.jpg",
+      "margin": 0.169857,
+      "d_intra": 0.832988,
+      "d_inter_min": 1.002845,
+      "cluster_size": 42
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_431.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "storage_tank_431.jpg",
+      "margin": 0.151757,
+      "d_intra": 0.74015,
+      "d_inter_min": 0.891907,
+      "cluster_size": 97
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/storage_tank/storage_tank_233.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "storage_tank_233.jpg",
+      "margin": 0.251453,
+      "d_intra": 0.629088,
+      "d_inter_min": 0.880541,
+      "cluster_size": 74
+    }
+  ],
+  "tennis_court": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_421.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "tennis_court_421.jpg",
+      "margin": 0.096146,
+      "d_intra": 0.368574,
+      "d_inter_min": 0.46472,
+      "cluster_size": 173
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_140.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "tennis_court_140.jpg",
+      "margin": 0.198429,
+      "d_intra": 0.830141,
+      "d_inter_min": 1.028569,
+      "cluster_size": 42
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_426.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "tennis_court_426.jpg",
+      "margin": 0.320356,
+      "d_intra": 0.843508,
+      "d_inter_min": 1.163864,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_572.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "tennis_court_572.jpg",
+      "margin": 0.151284,
+      "d_intra": 0.644946,
+      "d_inter_min": 0.79623,
+      "cluster_size": 47
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_491.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "tennis_court_491.jpg",
+      "margin": 0.198305,
+      "d_intra": 0.907683,
+      "d_inter_min": 1.105988,
+      "cluster_size": 18
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_478.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "tennis_court_478.jpg",
+      "margin": 0.070767,
+      "d_intra": 0.624066,
+      "d_inter_min": 0.694834,
+      "cluster_size": 87
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_564.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "tennis_court_564.jpg",
+      "margin": 0.14815,
+      "d_intra": 0.654505,
+      "d_inter_min": 0.802656,
+      "cluster_size": 55
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_345.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "tennis_court_345.jpg",
+      "margin": 0.180177,
+      "d_intra": 0.514268,
+      "d_inter_min": 0.694445,
+      "cluster_size": 95
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_219.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "tennis_court_219.jpg",
+      "margin": 0.309854,
+      "d_intra": 0.776316,
+      "d_inter_min": 1.086169,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/tennis_court/tennis_court_585.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "tennis_court_585.jpg",
+      "margin": 0.088036,
+      "d_intra": 0.640494,
+      "d_inter_min": 0.72853,
+      "cluster_size": 67
+    }
+  ],
+  "terrace": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_389.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "terrace_389.jpg",
+      "margin": 0.284415,
+      "d_intra": 0.737321,
+      "d_inter_min": 1.021736,
+      "cluster_size": 21
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_429.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "terrace_429.jpg",
+      "margin": 0.324774,
+      "d_intra": 0.517314,
+      "d_inter_min": 0.842088,
+      "cluster_size": 36
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_277.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "terrace_277.jpg",
+      "margin": 0.202835,
+      "d_intra": 0.858073,
+      "d_inter_min": 1.060909,
+      "cluster_size": 31
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_555.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "terrace_555.jpg",
+      "margin": 0.171756,
+      "d_intra": 0.692901,
+      "d_inter_min": 0.864657,
+      "cluster_size": 52
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_152.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "terrace_152.jpg",
+      "margin": 0.195896,
+      "d_intra": 0.439935,
+      "d_inter_min": 0.63583,
+      "cluster_size": 124
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_451.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "terrace_451.jpg",
+      "margin": 0.139012,
+      "d_intra": 0.473953,
+      "d_inter_min": 0.612965,
+      "cluster_size": 117
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_468.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "terrace_468.jpg",
+      "margin": 0.166424,
+      "d_intra": 0.596674,
+      "d_inter_min": 0.763098,
+      "cluster_size": 87
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_123.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "terrace_123.jpg",
+      "margin": 0.301077,
+      "d_intra": 0.43152,
+      "d_inter_min": 0.732597,
+      "cluster_size": 57
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_570.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "terrace_570.jpg",
+      "margin": 0.192893,
+      "d_intra": 0.976572,
+      "d_inter_min": 1.169465,
+      "cluster_size": 29
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/terrace/terrace_188.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "terrace_188.jpg",
+      "margin": 0.236526,
+      "d_intra": 0.593375,
+      "d_inter_min": 0.829901,
+      "cluster_size": 46
+    }
+  ],
+  "thermal_power_station": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_028.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "thermal_power_station_028.jpg",
+      "margin": 0.187793,
+      "d_intra": 0.797667,
+      "d_inter_min": 0.985459,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_598.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "thermal_power_station_598.jpg",
+      "margin": 0.200984,
+      "d_intra": 0.603448,
+      "d_inter_min": 0.804433,
+      "cluster_size": 67
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_017.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "thermal_power_station_017.jpg",
+      "margin": 0.226724,
+      "d_intra": 0.563993,
+      "d_inter_min": 0.790717,
+      "cluster_size": 60
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_180.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "thermal_power_station_180.jpg",
+      "margin": 0.213424,
+      "d_intra": 0.787335,
+      "d_inter_min": 1.000758,
+      "cluster_size": 52
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_390.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "thermal_power_station_390.jpg",
+      "margin": 0.220731,
+      "d_intra": 0.814952,
+      "d_inter_min": 1.035683,
+      "cluster_size": 54
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_012.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "thermal_power_station_012.jpg",
+      "margin": 0.14071,
+      "d_intra": 0.840844,
+      "d_inter_min": 0.981553,
+      "cluster_size": 50
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_548.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "thermal_power_station_548.jpg",
+      "margin": 0.227753,
+      "d_intra": 0.710836,
+      "d_inter_min": 0.938589,
+      "cluster_size": 33
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_514.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "thermal_power_station_514.jpg",
+      "margin": 0.190895,
+      "d_intra": 0.773728,
+      "d_inter_min": 0.964623,
+      "cluster_size": 46
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_104.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "thermal_power_station_104.jpg",
+      "margin": 0.256212,
+      "d_intra": 0.463915,
+      "d_inter_min": 0.720127,
+      "cluster_size": 132
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/thermal_power_station/thermal_power_station_297.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "thermal_power_station_297.jpg",
+      "margin": 0.152259,
+      "d_intra": 0.728156,
+      "d_inter_min": 0.880415,
+      "cluster_size": 60
+    }
+  ],
+  "wetland": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_119.jpg",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "wetland_119.jpg",
+      "margin": 0.168009,
+      "d_intra": 0.464668,
+      "d_inter_min": 0.632677,
+      "cluster_size": 50
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_596.jpg",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "wetland_596.jpg",
+      "margin": 0.069085,
+      "d_intra": 0.454117,
+      "d_inter_min": 0.523202,
+      "cluster_size": 65
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_264.jpg",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "wetland_264.jpg",
+      "margin": 0.105544,
+      "d_intra": 0.41666,
+      "d_inter_min": 0.522204,
+      "cluster_size": 44
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_213.jpg",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "wetland_213.jpg",
+      "margin": 0.117468,
+      "d_intra": 0.318693,
+      "d_inter_min": 0.436161,
+      "cluster_size": 91
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_490.jpg",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "wetland_490.jpg",
+      "margin": 0.273425,
+      "d_intra": 0.853208,
+      "d_inter_min": 1.126633,
+      "cluster_size": 10
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_068.jpg",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "wetland_068.jpg",
+      "margin": 0.114785,
+      "d_intra": 0.445702,
+      "d_inter_min": 0.560488,
+      "cluster_size": 34
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_072.jpg",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "wetland_072.jpg",
+      "margin": 0.105597,
+      "d_intra": 0.437523,
+      "d_inter_min": 0.543119,
+      "cluster_size": 79
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_303.jpg",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "wetland_303.jpg",
+      "margin": 0.085866,
+      "d_intra": 0.420268,
+      "d_inter_min": 0.506134,
+      "cluster_size": 97
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_564.jpg",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "wetland_564.jpg",
+      "margin": 0.177057,
+      "d_intra": 0.762503,
+      "d_inter_min": 0.93956,
+      "cluster_size": 20
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/NWPU-RESISC45/train/wetland/wetland_558.jpg",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "wetland_558.jpg",
+      "margin": 0.165811,
+      "d_intra": 0.218734,
+      "d_inter_min": 0.384545,
+      "cluster_size": 110
+    }
+  ]
+}

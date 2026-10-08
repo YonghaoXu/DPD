@@ -1,0 +1,3194 @@
+{
+  "agricultural": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural97.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "agricultural97.tif",
+      "margin": 0.399615,
+      "d_intra": 0.383913,
+      "d_inter_min": 0.783528,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural98.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "agricultural98.tif",
+      "margin": 0.24528,
+      "d_intra": 0.379207,
+      "d_inter_min": 0.624487,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural27.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "agricultural27.tif",
+      "margin": 0.544429,
+      "d_intra": 0.443987,
+      "d_inter_min": 0.988416,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural15.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "agricultural15.tif",
+      "margin": 0.598758,
+      "d_intra": 0.517982,
+      "d_inter_min": 1.116739,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural38.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "agricultural38.tif",
+      "margin": 0.535106,
+      "d_intra": 0.325684,
+      "d_inter_min": 0.86079,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural69.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "agricultural69.tif",
+      "margin": 0.337695,
+      "d_intra": 0.623492,
+      "d_inter_min": 0.961187,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural84.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "agricultural84.tif",
+      "margin": 0.61081,
+      "d_intra": 0.372319,
+      "d_inter_min": 0.983129,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural62.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "agricultural62.tif",
+      "margin": 1.227988,
+      "d_intra": 0.0,
+      "d_inter_min": 1.227988,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural00.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "agricultural00.tif",
+      "margin": 1.077644,
+      "d_intra": 0.0,
+      "d_inter_min": 1.077644,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural22.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "agricultural22.tif",
+      "margin": 1.152868,
+      "d_intra": 0.0,
+      "d_inter_min": 1.152868,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural86.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "agricultural86.tif",
+      "margin": 0.788243,
+      "d_intra": 0.0,
+      "d_inter_min": 0.788243,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural73.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "agricultural73.tif",
+      "margin": 0.440982,
+      "d_intra": 0.383505,
+      "d_inter_min": 0.824487,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural61.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "agricultural61.tif",
+      "margin": 0.289807,
+      "d_intra": 0.320062,
+      "d_inter_min": 0.609868,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural25.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "agricultural25.tif",
+      "margin": 0.44356,
+      "d_intra": 0.509379,
+      "d_inter_min": 0.952938,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/agricultural/agricultural03.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "agricultural03.tif",
+      "margin": 0.973061,
+      "d_intra": 0.0,
+      "d_inter_min": 0.973061,
+      "cluster_size": 1
+    }
+  ],
+  "airplane": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane75.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "airplane75.tif",
+      "margin": 0.27834,
+      "d_intra": 0.545673,
+      "d_inter_min": 0.824013,
+      "cluster_size": 13
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane56.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "airplane56.tif",
+      "margin": 0.450608,
+      "d_intra": 0.47725,
+      "d_inter_min": 0.927858,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane45.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "airplane45.tif",
+      "margin": 0.234809,
+      "d_intra": 0.613747,
+      "d_inter_min": 0.848556,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane66.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "airplane66.tif",
+      "margin": 0.483304,
+      "d_intra": 0.536698,
+      "d_inter_min": 1.020002,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane94.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "airplane94.tif",
+      "margin": 0.889491,
+      "d_intra": 0.0,
+      "d_inter_min": 0.889491,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane41.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "airplane41.tif",
+      "margin": 1.053048,
+      "d_intra": 0.0,
+      "d_inter_min": 1.053048,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane02.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "airplane02.tif",
+      "margin": 0.8188,
+      "d_intra": 0.0,
+      "d_inter_min": 0.8188,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane46.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "airplane46.tif",
+      "margin": 0.52765,
+      "d_intra": 0.523864,
+      "d_inter_min": 1.051514,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane89.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "airplane89.tif",
+      "margin": 1.064619,
+      "d_intra": 0.0,
+      "d_inter_min": 1.064619,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane11.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "airplane11.tif",
+      "margin": 0.482072,
+      "d_intra": 0.463081,
+      "d_inter_min": 0.945153,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane15.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "airplane15.tif",
+      "margin": 0.391645,
+      "d_intra": 0.465407,
+      "d_inter_min": 0.857052,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane78.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "airplane78.tif",
+      "margin": 1.112263,
+      "d_intra": 0.0,
+      "d_inter_min": 1.112263,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane13.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "airplane13.tif",
+      "margin": 0.329624,
+      "d_intra": 0.550017,
+      "d_inter_min": 0.879641,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane05.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "airplane05.tif",
+      "margin": 0.97157,
+      "d_intra": 0.0,
+      "d_inter_min": 0.97157,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/airplane/airplane27.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "airplane27.tif",
+      "margin": 0.854933,
+      "d_intra": 0.0,
+      "d_inter_min": 0.854933,
+      "cluster_size": 1
+    }
+  ],
+  "baseballdiamond": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond13.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "baseballdiamond13.tif",
+      "margin": 0.388546,
+      "d_intra": 0.595953,
+      "d_inter_min": 0.984499,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond79.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "baseballdiamond79.tif",
+      "margin": 0.958746,
+      "d_intra": 0.0,
+      "d_inter_min": 0.958746,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond82.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "baseballdiamond82.tif",
+      "margin": 0.45485,
+      "d_intra": 0.622582,
+      "d_inter_min": 1.077433,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond27.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "baseballdiamond27.tif",
+      "margin": 0.342848,
+      "d_intra": 0.609489,
+      "d_inter_min": 0.952337,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond10.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "baseballdiamond10.tif",
+      "margin": 0.349563,
+      "d_intra": 0.504502,
+      "d_inter_min": 0.854065,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond66.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "baseballdiamond66.tif",
+      "margin": 0.43589,
+      "d_intra": 0.416397,
+      "d_inter_min": 0.852287,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond24.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "baseballdiamond24.tif",
+      "margin": 0.347013,
+      "d_intra": 0.470958,
+      "d_inter_min": 0.817971,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond50.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "baseballdiamond50.tif",
+      "margin": 0.509447,
+      "d_intra": 0.480395,
+      "d_inter_min": 0.989842,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond30.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "baseballdiamond30.tif",
+      "margin": 0.559309,
+      "d_intra": 0.468812,
+      "d_inter_min": 1.028122,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond83.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "baseballdiamond83.tif",
+      "margin": 0.404606,
+      "d_intra": 0.638108,
+      "d_inter_min": 1.042714,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond85.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "baseballdiamond85.tif",
+      "margin": 0.407626,
+      "d_intra": 0.683142,
+      "d_inter_min": 1.090767,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond14.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "baseballdiamond14.tif",
+      "margin": 0.879349,
+      "d_intra": 0.0,
+      "d_inter_min": 0.879349,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond43.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "baseballdiamond43.tif",
+      "margin": 0.446072,
+      "d_intra": 0.511012,
+      "d_inter_min": 0.957084,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond95.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "baseballdiamond95.tif",
+      "margin": 0.456076,
+      "d_intra": 0.522582,
+      "d_inter_min": 0.978658,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/baseballdiamond/baseballdiamond12.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "baseballdiamond12.tif",
+      "margin": 1.044637,
+      "d_intra": 0.0,
+      "d_inter_min": 1.044637,
+      "cluster_size": 1
+    }
+  ],
+  "beach": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach40.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "beach40.tif",
+      "margin": 0.282561,
+      "d_intra": 0.464299,
+      "d_inter_min": 0.74686,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach81.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "beach81.tif",
+      "margin": 0.223329,
+      "d_intra": 0.346169,
+      "d_inter_min": 0.569498,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach91.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "beach91.tif",
+      "margin": 0.59864,
+      "d_intra": 0.343847,
+      "d_inter_min": 0.942487,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach76.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "beach76.tif",
+      "margin": 0.579814,
+      "d_intra": 0.183328,
+      "d_inter_min": 0.763142,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach47.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "beach47.tif",
+      "margin": 0.42826,
+      "d_intra": 0.456421,
+      "d_inter_min": 0.884681,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach70.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "beach70.tif",
+      "margin": 0.227964,
+      "d_intra": 0.367706,
+      "d_inter_min": 0.595671,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach58.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "beach58.tif",
+      "margin": 0.323435,
+      "d_intra": 0.480802,
+      "d_inter_min": 0.804237,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach53.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "beach53.tif",
+      "margin": 0.427265,
+      "d_intra": 0.323252,
+      "d_inter_min": 0.750516,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach18.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "beach18.tif",
+      "margin": 0.808926,
+      "d_intra": 0.0,
+      "d_inter_min": 0.808926,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach95.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "beach95.tif",
+      "margin": 0.451276,
+      "d_intra": 0.405635,
+      "d_inter_min": 0.856911,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach96.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "beach96.tif",
+      "margin": 0.391271,
+      "d_intra": 0.365096,
+      "d_inter_min": 0.756367,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach31.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "beach31.tif",
+      "margin": 0.840664,
+      "d_intra": 0.0,
+      "d_inter_min": 0.840664,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach03.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "beach03.tif",
+      "margin": 0.454621,
+      "d_intra": 0.390952,
+      "d_inter_min": 0.845574,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach20.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "beach20.tif",
+      "margin": 0.464355,
+      "d_intra": 0.332263,
+      "d_inter_min": 0.796618,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/beach/beach08.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "beach08.tif",
+      "margin": 0.450652,
+      "d_intra": 0.402632,
+      "d_inter_min": 0.853285,
+      "cluster_size": 3
+    }
+  ],
+  "buildings": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings77.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "buildings77.tif",
+      "margin": 0.362831,
+      "d_intra": 0.612207,
+      "d_inter_min": 0.975038,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings33.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "buildings33.tif",
+      "margin": 0.446386,
+      "d_intra": 0.602349,
+      "d_inter_min": 1.048735,
+      "cluster_size": 17
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings87.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "buildings87.tif",
+      "margin": 0.515237,
+      "d_intra": 0.552386,
+      "d_inter_min": 1.067623,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings38.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "buildings38.tif",
+      "margin": 0.335694,
+      "d_intra": 0.662346,
+      "d_inter_min": 0.99804,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings15.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "buildings15.tif",
+      "margin": 0.373895,
+      "d_intra": 0.706845,
+      "d_inter_min": 1.08074,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings72.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "buildings72.tif",
+      "margin": 1.064072,
+      "d_intra": 0.0,
+      "d_inter_min": 1.064072,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings73.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "buildings73.tif",
+      "margin": 0.405622,
+      "d_intra": 0.565219,
+      "d_inter_min": 0.970841,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings21.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "buildings21.tif",
+      "margin": 1.012628,
+      "d_intra": 0.0,
+      "d_inter_min": 1.012628,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings35.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "buildings35.tif",
+      "margin": 0.533833,
+      "d_intra": 0.611106,
+      "d_inter_min": 1.144939,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings83.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "buildings83.tif",
+      "margin": 1.023162,
+      "d_intra": 0.0,
+      "d_inter_min": 1.023162,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings81.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "buildings81.tif",
+      "margin": 0.474803,
+      "d_intra": 0.584961,
+      "d_inter_min": 1.059763,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings22.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "buildings22.tif",
+      "margin": 0.470254,
+      "d_intra": 0.585749,
+      "d_inter_min": 1.056003,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings07.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "buildings07.tif",
+      "margin": 0.445277,
+      "d_intra": 0.674091,
+      "d_inter_min": 1.119368,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings88.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "buildings88.tif",
+      "margin": 1.04185,
+      "d_intra": 0.0,
+      "d_inter_min": 1.04185,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/buildings/buildings54.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "buildings54.tif",
+      "margin": 0.355904,
+      "d_intra": 0.587171,
+      "d_inter_min": 0.943075,
+      "cluster_size": 3
+    }
+  ],
+  "chaparral": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral84.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "chaparral84.tif",
+      "margin": 0.28237,
+      "d_intra": 0.266668,
+      "d_inter_min": 0.549039,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral17.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "chaparral17.tif",
+      "margin": 0.170394,
+      "d_intra": 0.507657,
+      "d_inter_min": 0.678051,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral58.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "chaparral58.tif",
+      "margin": 0.148147,
+      "d_intra": 0.406229,
+      "d_inter_min": 0.554376,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral89.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "chaparral89.tif",
+      "margin": 0.291146,
+      "d_intra": 0.380394,
+      "d_inter_min": 0.67154,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral04.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "chaparral04.tif",
+      "margin": 0.311156,
+      "d_intra": 0.356109,
+      "d_inter_min": 0.667265,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral91.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "chaparral91.tif",
+      "margin": 0.254234,
+      "d_intra": 0.316263,
+      "d_inter_min": 0.570497,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral73.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "chaparral73.tif",
+      "margin": 0.175577,
+      "d_intra": 0.400722,
+      "d_inter_min": 0.576299,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral37.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "chaparral37.tif",
+      "margin": 0.119496,
+      "d_intra": 0.496674,
+      "d_inter_min": 0.616169,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral49.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "chaparral49.tif",
+      "margin": 0.858627,
+      "d_intra": 0.0,
+      "d_inter_min": 0.858627,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral78.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "chaparral78.tif",
+      "margin": 0.649164,
+      "d_intra": 0.0,
+      "d_inter_min": 0.649164,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral62.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "chaparral62.tif",
+      "margin": 0.349762,
+      "d_intra": 0.314502,
+      "d_inter_min": 0.664264,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral41.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "chaparral41.tif",
+      "margin": 0.692704,
+      "d_intra": 0.0,
+      "d_inter_min": 0.692704,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral33.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "chaparral33.tif",
+      "margin": 0.629207,
+      "d_intra": 0.0,
+      "d_inter_min": 0.629207,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral11.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "chaparral11.tif",
+      "margin": 0.739428,
+      "d_intra": 0.0,
+      "d_inter_min": 0.739428,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/chaparral/chaparral34.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "chaparral34.tif",
+      "margin": 0.173004,
+      "d_intra": 0.402993,
+      "d_inter_min": 0.575996,
+      "cluster_size": 7
+    }
+  ],
+  "denseresidential": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential45.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "denseresidential45.tif",
+      "margin": 0.419253,
+      "d_intra": 0.647385,
+      "d_inter_min": 1.066637,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential71.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "denseresidential71.tif",
+      "margin": 0.341444,
+      "d_intra": 0.76124,
+      "d_inter_min": 1.102684,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential49.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "denseresidential49.tif",
+      "margin": 0.329354,
+      "d_intra": 0.719125,
+      "d_inter_min": 1.048479,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential17.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "denseresidential17.tif",
+      "margin": 0.378904,
+      "d_intra": 0.659156,
+      "d_inter_min": 1.03806,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential01.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "denseresidential01.tif",
+      "margin": 0.481083,
+      "d_intra": 0.554358,
+      "d_inter_min": 1.035441,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential82.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "denseresidential82.tif",
+      "margin": 0.410682,
+      "d_intra": 0.572623,
+      "d_inter_min": 0.983305,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential90.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "denseresidential90.tif",
+      "margin": 0.366387,
+      "d_intra": 0.568403,
+      "d_inter_min": 0.93479,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential12.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "denseresidential12.tif",
+      "margin": 0.314498,
+      "d_intra": 0.677574,
+      "d_inter_min": 0.992072,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential13.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "denseresidential13.tif",
+      "margin": 1.150031,
+      "d_intra": 0.0,
+      "d_inter_min": 1.150031,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential21.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "denseresidential21.tif",
+      "margin": 0.399558,
+      "d_intra": 0.675982,
+      "d_inter_min": 1.075539,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential07.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "denseresidential07.tif",
+      "margin": 0.364933,
+      "d_intra": 0.551194,
+      "d_inter_min": 0.916127,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential70.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "denseresidential70.tif",
+      "margin": 0.972735,
+      "d_intra": 0.0,
+      "d_inter_min": 0.972735,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential96.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "denseresidential96.tif",
+      "margin": 0.945501,
+      "d_intra": 0.0,
+      "d_inter_min": 0.945501,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential44.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "denseresidential44.tif",
+      "margin": 0.353708,
+      "d_intra": 0.819576,
+      "d_inter_min": 1.173284,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/denseresidential/denseresidential40.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "denseresidential40.tif",
+      "margin": 1.140494,
+      "d_intra": 0.0,
+      "d_inter_min": 1.140494,
+      "cluster_size": 1
+    }
+  ],
+  "forest": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest06.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "forest06.tif",
+      "margin": 0.813011,
+      "d_intra": 0.0,
+      "d_inter_min": 0.813011,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest40.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "forest40.tif",
+      "margin": 0.132303,
+      "d_intra": 0.501049,
+      "d_inter_min": 0.633352,
+      "cluster_size": 17
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest19.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "forest19.tif",
+      "margin": 0.912609,
+      "d_intra": 0.0,
+      "d_inter_min": 0.912609,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest15.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "forest15.tif",
+      "margin": 0.864635,
+      "d_intra": 0.0,
+      "d_inter_min": 0.864635,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest00.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "forest00.tif",
+      "margin": 0.190645,
+      "d_intra": 0.321651,
+      "d_inter_min": 0.512296,
+      "cluster_size": 17
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest08.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "forest08.tif",
+      "margin": 0.84103,
+      "d_intra": 0.0,
+      "d_inter_min": 0.84103,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest21.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "forest21.tif",
+      "margin": 0.353612,
+      "d_intra": 0.365315,
+      "d_inter_min": 0.718928,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest31.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "forest31.tif",
+      "margin": 0.724741,
+      "d_intra": 0.0,
+      "d_inter_min": 0.724741,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest18.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "forest18.tif",
+      "margin": 0.912609,
+      "d_intra": 0.0,
+      "d_inter_min": 0.912609,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest20.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "forest20.tif",
+      "margin": 0.47873,
+      "d_intra": 0.387952,
+      "d_inter_min": 0.866683,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest26.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "forest26.tif",
+      "margin": 0.938072,
+      "d_intra": 0.0,
+      "d_inter_min": 0.938073,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest28.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "forest28.tif",
+      "margin": 0.613482,
+      "d_intra": 0.0,
+      "d_inter_min": 0.613482,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest12.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "forest12.tif",
+      "margin": 0.931195,
+      "d_intra": 0.0,
+      "d_inter_min": 0.931195,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest11.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "forest11.tif",
+      "margin": 0.927533,
+      "d_intra": 0.0,
+      "d_inter_min": 0.927533,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/forest/forest42.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "forest42.tif",
+      "margin": 0.325317,
+      "d_intra": 0.282222,
+      "d_inter_min": 0.607539,
+      "cluster_size": 2
+    }
+  ],
+  "freeway": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway37.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "freeway37.tif",
+      "margin": 0.90857,
+      "d_intra": 0.0,
+      "d_inter_min": 0.90857,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway33.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "freeway33.tif",
+      "margin": 0.325349,
+      "d_intra": 0.500929,
+      "d_inter_min": 0.826278,
+      "cluster_size": 10
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway14.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "freeway14.tif",
+      "margin": 0.564762,
+      "d_intra": 0.451517,
+      "d_inter_min": 1.016279,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway21.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "freeway21.tif",
+      "margin": 0.473285,
+      "d_intra": 0.521665,
+      "d_inter_min": 0.99495,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway09.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "freeway09.tif",
+      "margin": 0.407705,
+      "d_intra": 0.482331,
+      "d_inter_min": 0.890036,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway60.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "freeway60.tif",
+      "margin": 0.62819,
+      "d_intra": 0.510456,
+      "d_inter_min": 1.138646,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway73.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "freeway73.tif",
+      "margin": 0.316387,
+      "d_intra": 0.524906,
+      "d_inter_min": 0.841293,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway59.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "freeway59.tif",
+      "margin": 0.519148,
+      "d_intra": 0.555792,
+      "d_inter_min": 1.074939,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway67.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "freeway67.tif",
+      "margin": 0.742813,
+      "d_intra": 0.408506,
+      "d_inter_min": 1.151319,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway32.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "freeway32.tif",
+      "margin": 0.461733,
+      "d_intra": 0.477289,
+      "d_inter_min": 0.939022,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway40.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "freeway40.tif",
+      "margin": 1.013717,
+      "d_intra": 0.0,
+      "d_inter_min": 1.013717,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway49.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "freeway49.tif",
+      "margin": 0.474331,
+      "d_intra": 0.595786,
+      "d_inter_min": 1.070117,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway20.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "freeway20.tif",
+      "margin": 0.728767,
+      "d_intra": 0.350418,
+      "d_inter_min": 1.079185,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway03.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "freeway03.tif",
+      "margin": 0.412238,
+      "d_intra": 0.389069,
+      "d_inter_min": 0.801307,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/freeway/freeway95.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "freeway95.tif",
+      "margin": 1.196776,
+      "d_intra": 0.0,
+      "d_inter_min": 1.196776,
+      "cluster_size": 1
+    }
+  ],
+  "golfcourse": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse43.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "golfcourse43.tif",
+      "margin": 0.346582,
+      "d_intra": 0.501825,
+      "d_inter_min": 0.848407,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse10.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "golfcourse10.tif",
+      "margin": 0.278757,
+      "d_intra": 0.730742,
+      "d_inter_min": 1.009499,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse33.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "golfcourse33.tif",
+      "margin": 0.368828,
+      "d_intra": 0.578976,
+      "d_inter_min": 0.947803,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse97.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "golfcourse97.tif",
+      "margin": 0.46496,
+      "d_intra": 0.383417,
+      "d_inter_min": 0.848377,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse17.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "golfcourse17.tif",
+      "margin": 0.326529,
+      "d_intra": 0.639548,
+      "d_inter_min": 0.966077,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse24.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "golfcourse24.tif",
+      "margin": 0.521885,
+      "d_intra": 0.458101,
+      "d_inter_min": 0.979986,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse05.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "golfcourse05.tif",
+      "margin": 1.078001,
+      "d_intra": 0.0,
+      "d_inter_min": 1.078001,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse08.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "golfcourse08.tif",
+      "margin": 0.427312,
+      "d_intra": 0.526748,
+      "d_inter_min": 0.95406,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse03.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "golfcourse03.tif",
+      "margin": 0.550253,
+      "d_intra": 0.524634,
+      "d_inter_min": 1.074887,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse69.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "golfcourse69.tif",
+      "margin": 0.301019,
+      "d_intra": 0.473927,
+      "d_inter_min": 0.774947,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse26.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "golfcourse26.tif",
+      "margin": 0.461147,
+      "d_intra": 0.517524,
+      "d_inter_min": 0.978671,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse77.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "golfcourse77.tif",
+      "margin": 0.348636,
+      "d_intra": 0.436858,
+      "d_inter_min": 0.785494,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse02.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "golfcourse02.tif",
+      "margin": 1.008729,
+      "d_intra": 0.0,
+      "d_inter_min": 1.008729,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse71.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "golfcourse71.tif",
+      "margin": 0.269616,
+      "d_intra": 0.399273,
+      "d_inter_min": 0.668889,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/golfcourse/golfcourse40.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "golfcourse40.tif",
+      "margin": 0.976319,
+      "d_intra": 0.0,
+      "d_inter_min": 0.976319,
+      "cluster_size": 1
+    }
+  ],
+  "harbor": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor22.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "harbor22.tif",
+      "margin": 0.389062,
+      "d_intra": 0.526676,
+      "d_inter_min": 0.915739,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor55.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "harbor55.tif",
+      "margin": 0.374798,
+      "d_intra": 0.497018,
+      "d_inter_min": 0.871816,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor23.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "harbor23.tif",
+      "margin": 0.483878,
+      "d_intra": 0.490024,
+      "d_inter_min": 0.973902,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor84.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "harbor84.tif",
+      "margin": 0.399232,
+      "d_intra": 0.52409,
+      "d_inter_min": 0.923322,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor51.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "harbor51.tif",
+      "margin": 0.430056,
+      "d_intra": 0.538861,
+      "d_inter_min": 0.968918,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor63.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "harbor63.tif",
+      "margin": 0.333225,
+      "d_intra": 0.727727,
+      "d_inter_min": 1.060951,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor39.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "harbor39.tif",
+      "margin": 0.492428,
+      "d_intra": 0.682817,
+      "d_inter_min": 1.175244,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor37.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "harbor37.tif",
+      "margin": 1.055802,
+      "d_intra": 0.0,
+      "d_inter_min": 1.055802,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor80.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "harbor80.tif",
+      "margin": 0.683707,
+      "d_intra": 0.325388,
+      "d_inter_min": 1.009095,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor05.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "harbor05.tif",
+      "margin": 0.368849,
+      "d_intra": 0.421389,
+      "d_inter_min": 0.790238,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor57.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "harbor57.tif",
+      "margin": 0.43381,
+      "d_intra": 0.585154,
+      "d_inter_min": 1.018964,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor29.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "harbor29.tif",
+      "margin": 0.504371,
+      "d_intra": 0.569833,
+      "d_inter_min": 1.074204,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor36.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "harbor36.tif",
+      "margin": 1.155538,
+      "d_intra": 0.0,
+      "d_inter_min": 1.155538,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor43.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "harbor43.tif",
+      "margin": 0.437996,
+      "d_intra": 0.577303,
+      "d_inter_min": 1.015299,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/harbor/harbor88.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "harbor88.tif",
+      "margin": 0.348243,
+      "d_intra": 0.518856,
+      "d_inter_min": 0.867099,
+      "cluster_size": 4
+    }
+  ],
+  "intersection": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection31.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "intersection31.tif",
+      "margin": 0.982243,
+      "d_intra": 0.0,
+      "d_inter_min": 0.982243,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection88.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "intersection88.tif",
+      "margin": 0.388345,
+      "d_intra": 0.469414,
+      "d_inter_min": 0.857759,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection15.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "intersection15.tif",
+      "margin": 0.364462,
+      "d_intra": 0.598302,
+      "d_inter_min": 0.962764,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection65.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "intersection65.tif",
+      "margin": 0.337616,
+      "d_intra": 0.724361,
+      "d_inter_min": 1.061976,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection02.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "intersection02.tif",
+      "margin": 1.035481,
+      "d_intra": 0.0,
+      "d_inter_min": 1.035481,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection19.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "intersection19.tif",
+      "margin": 0.32395,
+      "d_intra": 0.627551,
+      "d_inter_min": 0.951501,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection06.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "intersection06.tif",
+      "margin": 0.401588,
+      "d_intra": 0.631016,
+      "d_inter_min": 1.032604,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection85.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "intersection85.tif",
+      "margin": 0.383429,
+      "d_intra": 0.634778,
+      "d_inter_min": 1.018208,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection20.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "intersection20.tif",
+      "margin": 1.029271,
+      "d_intra": 0.0,
+      "d_inter_min": 1.029271,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection47.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "intersection47.tif",
+      "margin": 0.352556,
+      "d_intra": 0.537962,
+      "d_inter_min": 0.890518,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection35.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "intersection35.tif",
+      "margin": 0.423119,
+      "d_intra": 0.635698,
+      "d_inter_min": 1.058817,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection45.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "intersection45.tif",
+      "margin": 1.065235,
+      "d_intra": 0.0,
+      "d_inter_min": 1.065235,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection11.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "intersection11.tif",
+      "margin": 0.42185,
+      "d_intra": 0.570993,
+      "d_inter_min": 0.992843,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection28.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "intersection28.tif",
+      "margin": 0.971653,
+      "d_intra": 0.0,
+      "d_inter_min": 0.971653,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/intersection/intersection82.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "intersection82.tif",
+      "margin": 0.460121,
+      "d_intra": 0.615397,
+      "d_inter_min": 1.075518,
+      "cluster_size": 2
+    }
+  ],
+  "mediumresidential": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential65.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "mediumresidential65.tif",
+      "margin": 0.504349,
+      "d_intra": 0.64059,
+      "d_inter_min": 1.144939,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential30.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "mediumresidential30.tif",
+      "margin": 0.269126,
+      "d_intra": 0.704923,
+      "d_inter_min": 0.974049,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential91.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "mediumresidential91.tif",
+      "margin": 0.422425,
+      "d_intra": 0.659898,
+      "d_inter_min": 1.082323,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential04.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "mediumresidential04.tif",
+      "margin": 0.374214,
+      "d_intra": 0.740807,
+      "d_inter_min": 1.115021,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential18.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "mediumresidential18.tif",
+      "margin": 0.326697,
+      "d_intra": 0.810081,
+      "d_inter_min": 1.136779,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential62.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "mediumresidential62.tif",
+      "margin": 0.526287,
+      "d_intra": 0.634505,
+      "d_inter_min": 1.160792,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential32.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "mediumresidential32.tif",
+      "margin": 0.361036,
+      "d_intra": 0.595048,
+      "d_inter_min": 0.956084,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential27.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "mediumresidential27.tif",
+      "margin": 1.064051,
+      "d_intra": 0.0,
+      "d_inter_min": 1.064051,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential69.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "mediumresidential69.tif",
+      "margin": 0.490814,
+      "d_intra": 0.574477,
+      "d_inter_min": 1.065292,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential07.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "mediumresidential07.tif",
+      "margin": 1.047829,
+      "d_intra": 0.0,
+      "d_inter_min": 1.047829,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential83.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "mediumresidential83.tif",
+      "margin": 0.403879,
+      "d_intra": 0.665763,
+      "d_inter_min": 1.069642,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential00.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "mediumresidential00.tif",
+      "margin": 0.496443,
+      "d_intra": 0.587731,
+      "d_inter_min": 1.084174,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential39.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "mediumresidential39.tif",
+      "margin": 0.283205,
+      "d_intra": 0.597767,
+      "d_inter_min": 0.880972,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential94.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "mediumresidential94.tif",
+      "margin": 0.365844,
+      "d_intra": 0.688293,
+      "d_inter_min": 1.054137,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mediumresidential/mediumresidential57.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "mediumresidential57.tif",
+      "margin": 1.141694,
+      "d_intra": 0.0,
+      "d_inter_min": 1.141694,
+      "cluster_size": 1
+    }
+  ],
+  "mobilehomepark": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark24.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "mobilehomepark24.tif",
+      "margin": 0.386456,
+      "d_intra": 0.558511,
+      "d_inter_min": 0.944967,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark95.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "mobilehomepark95.tif",
+      "margin": 0.420262,
+      "d_intra": 0.575941,
+      "d_inter_min": 0.996203,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark38.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "mobilehomepark38.tif",
+      "margin": 0.313353,
+      "d_intra": 0.637313,
+      "d_inter_min": 0.950666,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark78.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "mobilehomepark78.tif",
+      "margin": 0.301835,
+      "d_intra": 0.772489,
+      "d_inter_min": 1.074324,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark64.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "mobilehomepark64.tif",
+      "margin": 0.304856,
+      "d_intra": 0.524239,
+      "d_inter_min": 0.829095,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark69.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "mobilehomepark69.tif",
+      "margin": 0.24753,
+      "d_intra": 0.65932,
+      "d_inter_min": 0.90685,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark94.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "mobilehomepark94.tif",
+      "margin": 0.96966,
+      "d_intra": 0.0,
+      "d_inter_min": 0.96966,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark05.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "mobilehomepark05.tif",
+      "margin": 0.41183,
+      "d_intra": 0.50268,
+      "d_inter_min": 0.91451,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark12.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "mobilehomepark12.tif",
+      "margin": 0.359891,
+      "d_intra": 0.59601,
+      "d_inter_min": 0.955901,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark84.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "mobilehomepark84.tif",
+      "margin": 0.320717,
+      "d_intra": 0.746879,
+      "d_inter_min": 1.067596,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark77.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "mobilehomepark77.tif",
+      "margin": 0.307723,
+      "d_intra": 0.659282,
+      "d_inter_min": 0.967004,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark75.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "mobilehomepark75.tif",
+      "margin": 0.523692,
+      "d_intra": 0.586241,
+      "d_inter_min": 1.109933,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark21.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "mobilehomepark21.tif",
+      "margin": 0.424243,
+      "d_intra": 0.563076,
+      "d_inter_min": 0.987319,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark88.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "mobilehomepark88.tif",
+      "margin": 1.124019,
+      "d_intra": 0.0,
+      "d_inter_min": 1.124019,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark19.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "mobilehomepark19.tif",
+      "margin": 0.991287,
+      "d_intra": 0.0,
+      "d_inter_min": 0.991287,
+      "cluster_size": 1
+    }
+  ],
+  "overpass": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass83.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "overpass83.tif",
+      "margin": 0.274526,
+      "d_intra": 0.648971,
+      "d_inter_min": 0.923498,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass56.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "overpass56.tif",
+      "margin": 0.565176,
+      "d_intra": 0.487041,
+      "d_inter_min": 1.052217,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass19.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "overpass19.tif",
+      "margin": 0.324171,
+      "d_intra": 0.556873,
+      "d_inter_min": 0.881044,
+      "cluster_size": 11
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass85.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "overpass85.tif",
+      "margin": 1.224906,
+      "d_intra": 0.0,
+      "d_inter_min": 1.224906,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass97.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "overpass97.tif",
+      "margin": 0.420233,
+      "d_intra": 0.625785,
+      "d_inter_min": 1.046017,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass31.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "overpass31.tif",
+      "margin": 0.481796,
+      "d_intra": 0.551431,
+      "d_inter_min": 1.033227,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass86.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "overpass86.tif",
+      "margin": 1.168927,
+      "d_intra": 0.0,
+      "d_inter_min": 1.168927,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass03.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "overpass03.tif",
+      "margin": 0.65825,
+      "d_intra": 0.525489,
+      "d_inter_min": 1.183739,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass64.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "overpass64.tif",
+      "margin": 0.391104,
+      "d_intra": 0.660783,
+      "d_inter_min": 1.051888,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass79.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "overpass79.tif",
+      "margin": 0.928423,
+      "d_intra": 0.0,
+      "d_inter_min": 0.928423,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass66.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "overpass66.tif",
+      "margin": 1.036636,
+      "d_intra": 0.0,
+      "d_inter_min": 1.036636,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass42.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "overpass42.tif",
+      "margin": 0.547991,
+      "d_intra": 0.563904,
+      "d_inter_min": 1.111896,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass81.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "overpass81.tif",
+      "margin": 1.022441,
+      "d_intra": 0.0,
+      "d_inter_min": 1.022441,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass26.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "overpass26.tif",
+      "margin": 1.048708,
+      "d_intra": 0.0,
+      "d_inter_min": 1.048708,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/overpass/overpass01.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "overpass01.tif",
+      "margin": 0.531888,
+      "d_intra": 0.448874,
+      "d_inter_min": 0.980761,
+      "cluster_size": 2
+    }
+  ],
+  "parkinglot": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot90.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "parkinglot90.tif",
+      "margin": 0.360292,
+      "d_intra": 0.571433,
+      "d_inter_min": 0.931725,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot46.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "parkinglot46.tif",
+      "margin": 0.356075,
+      "d_intra": 0.753759,
+      "d_inter_min": 1.109834,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot28.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "parkinglot28.tif",
+      "margin": 0.24702,
+      "d_intra": 0.814719,
+      "d_inter_min": 1.061739,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot10.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "parkinglot10.tif",
+      "margin": 0.952546,
+      "d_intra": 0.0,
+      "d_inter_min": 0.952546,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot96.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "parkinglot96.tif",
+      "margin": 0.350953,
+      "d_intra": 0.585506,
+      "d_inter_min": 0.936459,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot33.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "parkinglot33.tif",
+      "margin": 0.431862,
+      "d_intra": 0.623785,
+      "d_inter_min": 1.055647,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot12.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "parkinglot12.tif",
+      "margin": 0.453705,
+      "d_intra": 0.627398,
+      "d_inter_min": 1.081103,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot19.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "parkinglot19.tif",
+      "margin": 0.285183,
+      "d_intra": 0.587167,
+      "d_inter_min": 0.87235,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot72.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "parkinglot72.tif",
+      "margin": 1.119469,
+      "d_intra": 0.0,
+      "d_inter_min": 1.119469,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot03.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "parkinglot03.tif",
+      "margin": 0.38979,
+      "d_intra": 0.741347,
+      "d_inter_min": 1.131137,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot92.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "parkinglot92.tif",
+      "margin": 0.607684,
+      "d_intra": 0.42429,
+      "d_inter_min": 1.031975,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot27.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "parkinglot27.tif",
+      "margin": 0.479885,
+      "d_intra": 0.580669,
+      "d_inter_min": 1.060554,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot34.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "parkinglot34.tif",
+      "margin": 0.341733,
+      "d_intra": 0.695369,
+      "d_inter_min": 1.037102,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot73.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "parkinglot73.tif",
+      "margin": 1.142496,
+      "d_intra": 0.0,
+      "d_inter_min": 1.142496,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/parkinglot/parkinglot22.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "parkinglot22.tif",
+      "margin": 0.530682,
+      "d_intra": 0.645476,
+      "d_inter_min": 1.176158,
+      "cluster_size": 2
+    }
+  ],
+  "river": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river76.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "river76.tif",
+      "margin": 0.297452,
+      "d_intra": 0.608064,
+      "d_inter_min": 0.905516,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river43.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "river43.tif",
+      "margin": 0.360079,
+      "d_intra": 0.542422,
+      "d_inter_min": 0.902501,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river29.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "river29.tif",
+      "margin": 0.552719,
+      "d_intra": 0.601786,
+      "d_inter_min": 1.154504,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river26.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "river26.tif",
+      "margin": 0.405643,
+      "d_intra": 0.586998,
+      "d_inter_min": 0.992641,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river74.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "river74.tif",
+      "margin": 0.285549,
+      "d_intra": 0.58912,
+      "d_inter_min": 0.874669,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river24.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "river24.tif",
+      "margin": 0.493383,
+      "d_intra": 0.609313,
+      "d_inter_min": 1.102695,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river48.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "river48.tif",
+      "margin": 0.429445,
+      "d_intra": 0.600384,
+      "d_inter_min": 1.029829,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river99.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "river99.tif",
+      "margin": 0.57504,
+      "d_intra": 0.323075,
+      "d_inter_min": 0.898116,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river10.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "river10.tif",
+      "margin": 1.079167,
+      "d_intra": 0.0,
+      "d_inter_min": 1.079167,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river04.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "river04.tif",
+      "margin": 1.07835,
+      "d_intra": 0.0,
+      "d_inter_min": 1.07835,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river39.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "river39.tif",
+      "margin": 0.319398,
+      "d_intra": 0.568477,
+      "d_inter_min": 0.887875,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river77.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "river77.tif",
+      "margin": 0.604162,
+      "d_intra": 0.499232,
+      "d_inter_min": 1.103394,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river50.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "river50.tif",
+      "margin": 0.48093,
+      "d_intra": 0.528506,
+      "d_inter_min": 1.009435,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river14.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "river14.tif",
+      "margin": 1.105671,
+      "d_intra": 0.0,
+      "d_inter_min": 1.105671,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/river/river66.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "river66.tif",
+      "margin": 0.357406,
+      "d_intra": 0.722069,
+      "d_inter_min": 1.079475,
+      "cluster_size": 4
+    }
+  ],
+  "runway": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway33.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "runway33.tif",
+      "margin": 0.234785,
+      "d_intra": 0.310911,
+      "d_inter_min": 0.545696,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway04.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "runway04.tif",
+      "margin": 0.419951,
+      "d_intra": 0.641165,
+      "d_inter_min": 1.061115,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway82.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "runway82.tif",
+      "margin": 0.640044,
+      "d_intra": 0.336086,
+      "d_inter_min": 0.976129,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway53.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "runway53.tif",
+      "margin": 0.714965,
+      "d_intra": 0.381776,
+      "d_inter_min": 1.096741,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway67.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "runway67.tif",
+      "margin": 0.596074,
+      "d_intra": 0.468025,
+      "d_inter_min": 1.064099,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway81.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "runway81.tif",
+      "margin": 0.524654,
+      "d_intra": 0.44263,
+      "d_inter_min": 0.967284,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway60.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "runway60.tif",
+      "margin": 1.055982,
+      "d_intra": 0.0,
+      "d_inter_min": 1.055982,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway05.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "runway05.tif",
+      "margin": 0.507991,
+      "d_intra": 0.489394,
+      "d_inter_min": 0.997385,
+      "cluster_size": 9
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway64.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "runway64.tif",
+      "margin": 1.028748,
+      "d_intra": 0.0,
+      "d_inter_min": 1.028748,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway98.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "runway98.tif",
+      "margin": 1.004478,
+      "d_intra": 0.0,
+      "d_inter_min": 1.004478,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway25.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "runway25.tif",
+      "margin": 0.756828,
+      "d_intra": 0.386063,
+      "d_inter_min": 1.142891,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway72.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "runway72.tif",
+      "margin": 0.545302,
+      "d_intra": 0.465239,
+      "d_inter_min": 1.010541,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway97.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "runway97.tif",
+      "margin": 0.538828,
+      "d_intra": 0.481797,
+      "d_inter_min": 1.020625,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway28.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "runway28.tif",
+      "margin": 0.168551,
+      "d_intra": 0.607743,
+      "d_inter_min": 0.776294,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/runway/runway52.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "runway52.tif",
+      "margin": 1.145799,
+      "d_intra": 0.0,
+      "d_inter_min": 1.145799,
+      "cluster_size": 1
+    }
+  ],
+  "sparseresidential": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential03.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "sparseresidential03.tif",
+      "margin": 0.460514,
+      "d_intra": 0.577573,
+      "d_inter_min": 1.038087,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential99.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "sparseresidential99.tif",
+      "margin": 0.413348,
+      "d_intra": 0.476788,
+      "d_inter_min": 0.890136,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential16.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "sparseresidential16.tif",
+      "margin": 0.294524,
+      "d_intra": 0.804217,
+      "d_inter_min": 1.098741,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential79.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "sparseresidential79.tif",
+      "margin": 0.397516,
+      "d_intra": 0.582897,
+      "d_inter_min": 0.980414,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential56.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "sparseresidential56.tif",
+      "margin": 0.803847,
+      "d_intra": 0.0,
+      "d_inter_min": 0.803847,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential36.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "sparseresidential36.tif",
+      "margin": 0.275383,
+      "d_intra": 0.563753,
+      "d_inter_min": 0.839136,
+      "cluster_size": 5
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential64.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "sparseresidential64.tif",
+      "margin": 0.313559,
+      "d_intra": 0.662121,
+      "d_inter_min": 0.97568,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential10.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "sparseresidential10.tif",
+      "margin": 0.41237,
+      "d_intra": 0.547232,
+      "d_inter_min": 0.959602,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential60.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "sparseresidential60.tif",
+      "margin": 0.33936,
+      "d_intra": 0.552522,
+      "d_inter_min": 0.891881,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential41.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "sparseresidential41.tif",
+      "margin": 0.371158,
+      "d_intra": 0.522359,
+      "d_inter_min": 0.893517,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential12.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "sparseresidential12.tif",
+      "margin": 0.28709,
+      "d_intra": 0.501305,
+      "d_inter_min": 0.788395,
+      "cluster_size": 6
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential32.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "sparseresidential32.tif",
+      "margin": 0.286037,
+      "d_intra": 0.685609,
+      "d_inter_min": 0.971646,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential35.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "sparseresidential35.tif",
+      "margin": 0.881386,
+      "d_intra": 0.0,
+      "d_inter_min": 0.881386,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential70.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "sparseresidential70.tif",
+      "margin": 0.496343,
+      "d_intra": 0.518807,
+      "d_inter_min": 1.01515,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/sparseresidential/sparseresidential19.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "sparseresidential19.tif",
+      "margin": 0.421319,
+      "d_intra": 0.5314,
+      "d_inter_min": 0.95272,
+      "cluster_size": 2
+    }
+  ],
+  "storagetanks": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks36.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "storagetanks36.tif",
+      "margin": 1.030534,
+      "d_intra": 0.0,
+      "d_inter_min": 1.030534,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks16.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "storagetanks16.tif",
+      "margin": 0.418523,
+      "d_intra": 0.541824,
+      "d_inter_min": 0.960347,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks84.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "storagetanks84.tif",
+      "margin": 0.32956,
+      "d_intra": 0.517439,
+      "d_inter_min": 0.846999,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks43.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "storagetanks43.tif",
+      "margin": 0.450953,
+      "d_intra": 0.655308,
+      "d_inter_min": 1.106261,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks78.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "storagetanks78.tif",
+      "margin": 0.32732,
+      "d_intra": 0.540808,
+      "d_inter_min": 0.868128,
+      "cluster_size": 14
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks62.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "storagetanks62.tif",
+      "margin": 0.251537,
+      "d_intra": 0.543303,
+      "d_inter_min": 0.79484,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks14.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "storagetanks14.tif",
+      "margin": 1.069105,
+      "d_intra": 0.0,
+      "d_inter_min": 1.069105,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks55.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "storagetanks55.tif",
+      "margin": 0.430198,
+      "d_intra": 0.706907,
+      "d_inter_min": 1.137105,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks37.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "storagetanks37.tif",
+      "margin": 0.381618,
+      "d_intra": 0.709045,
+      "d_inter_min": 1.090663,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks39.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "storagetanks39.tif",
+      "margin": 0.425775,
+      "d_intra": 0.651153,
+      "d_inter_min": 1.076928,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks26.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "storagetanks26.tif",
+      "margin": 0.509176,
+      "d_intra": 0.513534,
+      "d_inter_min": 1.02271,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks22.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "storagetanks22.tif",
+      "margin": 0.550081,
+      "d_intra": 0.613931,
+      "d_inter_min": 1.164012,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks29.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "storagetanks29.tif",
+      "margin": 0.555288,
+      "d_intra": 0.500877,
+      "d_inter_min": 1.056165,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks48.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "storagetanks48.tif",
+      "margin": 1.011493,
+      "d_intra": 0.0,
+      "d_inter_min": 1.011493,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/storagetanks/storagetanks31.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "storagetanks31.tif",
+      "margin": 1.145852,
+      "d_intra": 0.0,
+      "d_inter_min": 1.145852,
+      "cluster_size": 1
+    }
+  ],
+  "tenniscourt": [
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt52.tif",
+      "caption": "",
+      "cluster_id": 0,
+      "file_name": "tenniscourt52.tif",
+      "margin": 0.258213,
+      "d_intra": 0.617019,
+      "d_inter_min": 0.875232,
+      "cluster_size": 8
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt31.tif",
+      "caption": "",
+      "cluster_id": 1,
+      "file_name": "tenniscourt31.tif",
+      "margin": 0.292944,
+      "d_intra": 0.753526,
+      "d_inter_min": 1.04647,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt87.tif",
+      "caption": "",
+      "cluster_id": 2,
+      "file_name": "tenniscourt87.tif",
+      "margin": 0.328609,
+      "d_intra": 0.724232,
+      "d_inter_min": 1.052841,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt36.tif",
+      "caption": "",
+      "cluster_id": 3,
+      "file_name": "tenniscourt36.tif",
+      "margin": 0.294126,
+      "d_intra": 0.632177,
+      "d_inter_min": 0.926304,
+      "cluster_size": 4
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt73.tif",
+      "caption": "",
+      "cluster_id": 4,
+      "file_name": "tenniscourt73.tif",
+      "margin": 0.942959,
+      "d_intra": 0.0,
+      "d_inter_min": 0.942959,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt66.tif",
+      "caption": "",
+      "cluster_id": 5,
+      "file_name": "tenniscourt66.tif",
+      "margin": 0.30353,
+      "d_intra": 0.611477,
+      "d_inter_min": 0.915007,
+      "cluster_size": 3
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt07.tif",
+      "caption": "",
+      "cluster_id": 6,
+      "file_name": "tenniscourt07.tif",
+      "margin": 0.470803,
+      "d_intra": 0.599185,
+      "d_inter_min": 1.069988,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt02.tif",
+      "caption": "",
+      "cluster_id": 7,
+      "file_name": "tenniscourt02.tif",
+      "margin": 1.088633,
+      "d_intra": 0.0,
+      "d_inter_min": 1.088633,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt54.tif",
+      "caption": "",
+      "cluster_id": 8,
+      "file_name": "tenniscourt54.tif",
+      "margin": 0.277107,
+      "d_intra": 0.642663,
+      "d_inter_min": 0.91977,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt88.tif",
+      "caption": "",
+      "cluster_id": 9,
+      "file_name": "tenniscourt88.tif",
+      "margin": 0.40985,
+      "d_intra": 0.610272,
+      "d_inter_min": 1.020122,
+      "cluster_size": 2
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt12.tif",
+      "caption": "",
+      "cluster_id": 10,
+      "file_name": "tenniscourt12.tif",
+      "margin": 1.131263,
+      "d_intra": 0.0,
+      "d_inter_min": 1.131263,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt32.tif",
+      "caption": "",
+      "cluster_id": 11,
+      "file_name": "tenniscourt32.tif",
+      "margin": 0.953592,
+      "d_intra": 0.0,
+      "d_inter_min": 0.953592,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt29.tif",
+      "caption": "",
+      "cluster_id": 12,
+      "file_name": "tenniscourt29.tif",
+      "margin": 0.251175,
+      "d_intra": 0.762139,
+      "d_inter_min": 1.013314,
+      "cluster_size": 7
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt04.tif",
+      "caption": "",
+      "cluster_id": 13,
+      "file_name": "tenniscourt04.tif",
+      "margin": 1.109429,
+      "d_intra": 0.0,
+      "d_inter_min": 1.109429,
+      "cluster_size": 1
+    },
+    {
+      "image": "/mimer/NOBACKUP/groups/alvis_cvl/yonghao/Data/VisionLanguage/UCMerced_LandUse/Images/tenniscourt/tenniscourt98.tif",
+      "caption": "",
+      "cluster_id": 14,
+      "file_name": "tenniscourt98.tif",
+      "margin": 0.302072,
+      "d_intra": 0.611439,
+      "d_inter_min": 0.91351,
+      "cluster_size": 6
+    }
+  ]
+}
